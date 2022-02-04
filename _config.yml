@@ -82,7 +82,7 @@ author:
   avatar: "photo_perso.png"
   bio: "Senior Data Scientist at the Swiss Data Science Center, ETH Zurich and EPFL. Passionate about machine learning and computer vision for geospatial and environmental applications"
   location: "Zurich, Switzerland"
-  employer: "ETHZ"
+  employer: "datascience.ch"
   pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: "https://scholar.google.ch/citations?user=3G-Oh2YAAAAJ&hl=en"
   email: "michele.volpi@datascience.ch"
@@ -100,7 +100,7 @@ author:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin:
+  linkedin: "https://www.linkedin.com/in/michele-volpi-576303a8/"
   orcid: "https://orcid.org/0000-0003-2771-0750"
   pinterest:
   soundcloud:
@@ -221,22 +221,22 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
-  # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks/
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
