@@ -33,158 +33,90 @@ author_profile: true
   <!--l. 38-->
   <p class="noindent">
   <dl class="thebibliography">
-    <dt id="X0-perez2022cryo" class="thebibliography">
-      [P�r+22] </dt>
-    <dd id="bib-1" class="thebibliography">
       <!--l. 38-->
-      <p class="noindent"><a id="page.1"></a><a href="plain_publication_list.html" id="X0-"></a>C. P�rez-Guill�n, F.
-        Techel, M. Hendrick, <span class="cmbx-10">M. Volpi</span>, A. van
-        Herwijnen, T. Olevski, G. Obozinski, F. P�rez-Cruz, and J.
-        Schweizer. &#8220;Data-driven automated predictions of the avalanche
-        danger level for dry-snow conditions in Switzerland&#8221;. In: <span class="cmti-10">Submitted</span>
-        (2022).
-    </dd>
-    <dt id="X0-landwehr2021spca" class="thebibliography">
-      [Lan+21] </dt>
-    <dd id="bib-2" class="thebibliography">
+      <p class="noindent">
+      C. Pérez-Guillén, F.
+      Techel, M. Hendrick, M. Volpi, A. van
+      Herwijnen, T. Olevski, G. Obozinski, F. Pérez-Cruz, and J.
+      Schweizer. &#8220;Data-driven automated predictions of the avalanche
+      danger level for dry-snow conditions in Switzerland&#8221;. In: <span class="cmti-10">Submitted</span> (2022).
       <!--l. 38-->
-      <p class="noindent">S. Landwehr, <span class="cmbx-10">M. Volpi</span>, and et al. &#8220;Biogeochemistry and
-        Physics of the Southern Ocean-Atmosphere System Explored With
-        Data Science&#8221;. In: <span class="cmti-10">Earth System Dynamics Discussions </span>(2021),
-        pp. 1&#8211;114.
-    </dd>
-    <dt id="X0-acheson2019ijgis" class="thebibliography">
-      [Ach+20] </dt>
-    <dd id="bib-3" class="thebibliography">
+      <p class="noindent">S. Landwehr, M. Volpi, et al. ;Biogeochemistry and Physics of the Southern Ocean-Atmosphere System Explored With Data Science;. In: <span class="cmti-10">Earth System Dynamics Discussions </span>(2021), pp. 1&#8211;114.
       <!--l. 38-->
       <p class="noindent">E. Acheson, <span class="cmbx-10">M. Volpi</span>, and R.S. Purves. &#8220;Machine learning
         for
         cross-gazetteer matching of natural features&#8221;. In: <span class="cmti-10">International</span>
         <span class="cmti-10">Journal of Geographical Information Science </span>34.4 (2020),
         pp. 708&#8211;734.
-    </dd>
-    <dt id="X0-landwehr2020seastatepreprint" class="thebibliography">
-      [Lan+20] </dt>
-    <dd id="bib-4" class="thebibliography">
       <!--l. 38-->
       <p class="noindent">S. Landwehr, <span class="cmbx-10">M. Volpi</span>, M.H. Derkani, F. Nelli, A. Alberello, A.
         Toffoli, M. Gysel-Beer, R. L. Modini, and J. Schmale. &#8220;Sea State
         and Boundary Layer Stability Limit Sea Spray Aerosol Lifetime
         over the Southern Ocean&#8221;. In: <span class="cmti-10">Earth and Space Science Open</span>
         <span class="cmti-10">Archive (Submitted to Geophysical Research Letters)&#8216; </span>(2020).
-    </dd>
-    <dt id="X0-roscher2020annalsisprs" class="thebibliography">
-      [Ros+20] </dt>
-    <dd id="bib-5" class="thebibliography">
       <!--l. 38-->
       <p class="noindent">R. Roscher, <span class="cmbx-10">M. Volpi</span>, C. Mallet, L. Drees, and J. D. Wegner.
         &#8220;SemCity Toulouse: A
         benchmark for building instance segmentation in satellite images&#8221;.
         In: <span class="cmti-10">ISPRS Annals of Photogrammetry, Remote Sensing and Spatial</span>
         <span class="cmti-10">Information Sciences </span>5 (2020), pp. 109&#8211;116.
-    </dd>
-    <dt id="X0-roth2019rse" class="thebibliography">
-      [Rot+19] </dt>
-    <dd id="bib-6" class="thebibliography">
-
       <!--l. 38-->
       <p class="noindent">S.I.B. Roth, R. Leiterer, <span class="cmbx-10">M. Volpi</span>, E. Celio, M. Schaepman, and
         P.C. Joerg. &#8220;Automated detection of individual clove trees for yield
         quantification in north-eastern Madagascar based on multi-spectral
         satellite data&#8221;. In: <span class="cmti-10">Remote Sensing of Environment </span>221 (2019),
         pp. 144&#8211;156.
-    </dd>
-    <dt id="X0-marcos2018isprs" class="thebibliography">
-      [Mar+18] </dt>
-    <dd id="bib-7" class="thebibliography">
       <!--l. 38-->
       <p class="noindent">D. Marcos, <span class="cmbx-10">M. Volpi</span>, B. Kellenberger, and D. Tuia. &#8220;Land
         cover mapping at very high resolution with rotation equivariant
         CNNs: Towards small yet accurate models&#8221;. In: <span class="cmti-10">ISPRS Journal of</span>
         <span class="cmti-10">Photogrammetry and Remote Sensing </span>145.A (2018), pp. 96&#8211;107.
-    </dd>
-    <dt id="X0-milani2018rse" class="thebibliography">
-      [Mil+18] </dt>
-    <dd id="bib-8" class="thebibliography">
       <!--l. 38-->
       <p class="noindent">G. Milani, <span class="cmbx-10">M. Volpi</span>, D. Tonolla, M. Doering, C. Robinson,
         M. Kneub�hler, and M. Schaepman. &#8220;Robust Quantification
         of Riverine Land Cover Dynamics by High-Resolution Remote
         Sensing&#8221;. In: <span class="cmti-10">Remote Sensing of Environment </span>217 (2018),
         pp. 491&#8211;505.
-    </dd>
-    <dt id="X0-tuia2018tgrs" class="thebibliography">
-      [Tui+18] </dt>
-    <dd id="bib-9" class="thebibliography">
       <!--l. 38-->
       <p class="noindent">D. Tuia, <span class="cmbx-10">M. Volpi</span>, and G. Moser. &#8220;Decision Fusion With
         Multiple
         Spatial Supports by Conditional Random Fields&#8221;. In: <span class="cmti-10">IEEE</span>
         <span class="cmti-10">Transactions on Geoscience and Remote Sensing </span>56.6 (2018),
         pp. 3277&#8211;3289.
-    </dd>
-    <dt id="X0-volpi2018isprs" class="thebibliography">
-      [Vol+18] </dt>
-    <dd id="bib-10" class="thebibliography">
       <!--l. 38-->
       <p class="noindent"><span class="cmbx-10">M. Volpi </span>and D. Tuia. &#8220;Deep multi-task learning for
         a geographically-regularized semantic segmentation of aerial
         images&#8221;. In: <span class="cmti-10">ISPRS Journal of Photogrammetry and Remote</span>
         <span class="cmti-10">Sensing </span>144 (2018), pp. 48&#8211;60.
-    </dd>
-    <dt id="X0-wegner2018geoinfo" class="thebibliography">
-      [Weg+18] </dt>
-    <dd id="bib-11" class="thebibliography">
       <!--l. 38-->
       <p class="noindent">J.D. Wegner, R. Roscer, <span class="cmbx-10">M. Volpi</span>, and F. Veronesi.
         &#8220;Foreword
         to the Special Issue on Machine Learning for Geospatial Data
         Analysis&#8221;. In: <span class="cmti-10">ISPRS International Journal of Geo-Information</span>
         7.147 (2018).
-    </dd>
-    <dt id="X0-rey2017rse" class="thebibliography">
-      [Rey+17] </dt>
-    <dd id="bib-12" class="thebibliography">
       <!--l. 38-->
       <p class="noindent">N. Rey, <span class="cmbx-10">M. Volpi</span>, S. Joost, and D. Tuia. &#8220;Detecting animals
         in
         African Savannah with the help of UAVs and the crowds&#8221;. In:
         <span class="cmti-10">Remote Sensing of Environment </span>(2017). in press.
-    </dd>
-    <dt id="X0-volpi2016tgrs" class="thebibliography">
-      [Vol+17] </dt>
-    <dd id="bib-13" class="thebibliography">
-
       <!--l. 38-->
       <p class="noindent"><span class="cmbx-10">M. Volpi </span>and D. Tuia. &#8220;Dense semantic labeling of
         sub-decimeter
         resolution images with convolutional neural networks&#8221;. In: <span class="cmti-10">IEEE</span>
         <span class="cmti-10">Transactions on Geoscience and Remote Sensing </span>55.2 (2017),
         pp. 881&#8211;893.
-    </dd>
-    <dt id="X0-ireland2015remsens" class="thebibliography">
-      [Ire+15] </dt>
-    <dd id="bib-14" class="thebibliography">
       <!--l. 38-->
       <p class="noindent">G. Ireland, <span class="cmbx-10">M. Volpi</span>, and G. P. Petropoulos. &#8220;Examining
         the capability of supervised machine learning classifiers in
         extracting flooded areas from Landsat TM imagery: a case study
         from a Mediterranean flood&#8221;. In: <span class="cmti-10">Remote Sensing </span>7.3 (2015),
         pp. 3372&#8211;3399.
-    </dd>
-    <dt id="X0-matasci2015tgrs" class="thebibliography">
-      [Mat+15] </dt>
-    <dd id="bib-15" class="thebibliography">
       <!--l. 38-->
       <p class="noindent">G. Matasci, <span class="cmbx-10">M. Volpi</span>, M. Kanevski, L. Bruzzone, and D.
         Tuia. &#8220;Semisupervised transfer component analysis for domain
         adaptation in remote sensing image classification&#8221;. In: <span class="cmti-10">IEEE</span>
         <span class="cmti-10">Transactions on Geoscience and Remote Sensing </span>57.7 (2015),
         pp. 3550&#8211;3564.
-    </dd>
-    <dt id="X0-volpi2015isprs" class="thebibliography">
-      [Vol+15] </dt>
-    <dd id="bib-16" class="thebibliography">
       <!--l. 38-->
       <p class="noindent"><span class="cmbx-10">M. Volpi</span>, G. Camps-Valls, and D. Tuia. &#8220;Spectral alignment
         of
@@ -192,66 +124,37 @@ author_profile: true
         images with automated kernel canonical correlation analysis&#8221;.
         In: <span class="cmti-10">ISPRS Journal of Photogrammetry and Remote Sensing </span>107
         (2015), pp. 50&#8211;63.
-    </dd>
-    <dt id="X0-tuia2014atgrs" class="thebibliography">
-      [Tui+14] </dt>
-    <dd id="bib-17" class="thebibliography">
       <!--l. 38-->
       <p class="noindent">D. Tuia, <span class="cmbx-10">M. Volpi</span>, M. Dalla&#x00A0;Mura, A. Rakotomamonjy, and
         R. Flamary. &#8220;Automatic feature learning for spatio-spectral
         image classification with sparse SVM&#8221;. In: <span class="cmti-10">IEEE Transactions on</span>
         <span class="cmti-10">Geoscience and Remote Sensing </span>52.10 (2014), pp. 6062&#8211;6074.
-    </dd>
-    <dt id="X0-tuia2014tgrs" class="thebibliography">
-      [Tui+14] </dt>
-    <dd id="bib-18" class="thebibliography">
       <!--l. 38-->
       <p class="noindent">D. Tuia, <span class="cmbx-10">M. Volpi</span>, M. Trolliet, and G. Camps-Valls.
         &#8220;Semisupervised manifold alignment of multimodal remote sensing
         images&#8221;. In: <span class="cmti-10">IEEE Transactions on Geoscience and Remote</span>
         <span class="cmti-10">Sensing </span>52.12 (2014), pp. 7708&#8211;7720.
-    </dd>
-    <dt id="X0-volpi2014neucom" class="thebibliography">
-      [Vol+14] </dt>
-    <dd id="bib-19" class="thebibliography">
       <!--l. 38-->
       <p class="noindent"><span class="cmbx-10">M. Volpi</span>, G. Matasci, M. Kanevski, and
         D. Tuia. &#8220;Semi-supervised multiview embedding for hyperspectral
         data classification&#8221;. In: <span class="cmti-10">Neurocomputing </span>145 (2014), pp. 427&#8211;437.
-    </dd>
-    <dt id="X0-penna2013geomo" class="thebibliography">
-      [Pen+13] </dt>
-    <dd id="bib-20" class="thebibliography">
-
       <!--l. 38-->
       <p class="noindent">I. M. Penna, M.-H. Derron, <span class="cmbx-10">M. Volpi</span>, and M. Jaboyedoff.
         &#8220;Analysis of past and future dam formation and failure in the Santa
         Cruz River (San Juan province, Argentina)&#8221;. In: <span class="cmti-10">Geomorphology</span>
         186 (2013), pp. 28&#8211;30.
-    </dd>
-    <dt id="X0-volpi2013compgeo" class="thebibliography">
-      [Vol+13] </dt>
-    <dd id="bib-21" class="thebibliography">
       <!--l. 38-->
       <p class="noindent"><span class="cmbx-10">M. Volpi</span>, G. P. Petropoulos, and M. Kanevski. &#8220;Flooding
         extent
         cartography with Landsat TM imagery and regularized kernel
         Fisher&#8217;s discriminant analysis&#8221;. In: <span class="cmti-10">Computers and Geosciences </span>57
         (2013), pp. 24&#8211;31.
-    </dd>
-    <dt id="X0-volpi2013jag" class="thebibliography">
-      [Vol+13] </dt>
-    <dd id="bib-22" class="thebibliography">
       <!--l. 38-->
       <p class="noindent"><span class="cmbx-10">M. Volpi</span>, D. Tuia, F. Bovolo, M. Kanevski, and L. Bruzzone.
         &#8220;Supervised change detection in VHR images using contextual
         information and support vector machines&#8221;. In: <span class="cmti-10">International</span>
         <span class="cmti-10">Journal of Applied Earth Observation and Geoinformation </span>20
         (2013), pp. 77&#8211;85.
-    </dd>
-    <dt id="X0-longbotham2012jstars" class="thebibliography">
-      [Lon+12] </dt>
-    <dd id="bib-23" class="thebibliography">
       <!--l. 38-->
       <p class="noindent">N. Longbotham, F. Pacifici, T. Glenn, A. Zare, <span class="cmbx-10">M. Volpi</span>, D.
         Tuia, E. Christophe, J. Michel, J. Inglada, J. Chanussot, and Q.
@@ -259,34 +162,21 @@ author_profile: true
         of flooded areas: outcome of the 2009-2010 data fusion contest&#8221;.
         In: <span class="cmti-10">IEEE Journal of Selected Topics in Applied Earth Observation</span>
         9.6 (2012), pp. 331&#8211;342.
-    </dd>
-    <dt id="X0-volpi2012grsl" class="thebibliography">
-      [Vol+12] </dt>
-    <dd id="bib-24" class="thebibliography">
       <!--l. 38-->
       <p class="noindent"><span class="cmbx-10">M. Volpi</span>, D. Tuia, G. Camps-Valls, and M. Kanevski.
         &#8220;Unsupervised change detection with kernels&#8221;. In: <span class="cmti-10">IEEE</span>
         <span class="cmti-10">Geoscience and Remote Sensing Letters </span>9.6 (2012), pp. 1026&#8211;1030.
-    </dd>
-    <dt id="X0-volpi2012tgrs" class="thebibliography">
-      [Vol+12] </dt>
-    <dd id="bib-25" class="thebibliography">
       <!--l. 38-->
       <p class="noindent"><span class="cmbx-10">M. Volpi</span>, D. Tuia, and M. Kanevski. &#8220;Memory-based cluster
         sampling for remote sensing image classification&#8221;. In: <span class="cmti-10">IEEE</span>
         <span class="cmti-10">Transactions on Geoscience and Remote Sensing </span>50.8 (2012),
         pp. 3096&#8211;3016.
-    </dd>
-    <dt id="X0-tuia2011jstsp" class="thebibliography">
-      [Tui+11] </dt>
-    <dd id="bib-26" class="thebibliography">
       <!--l. 38-->
       <p class="noindent">D. Tuia, <span class="cmbx-10">M. Volpi</span>, L. Copa, M. Kanevski, and J. Mu�oz-Mar�.
         &#8220;A
         survey of active leaning algorithms for supervised remote sensing
         image classification&#8221;. In: <span class="cmti-10">IEEE Journal of Selected Topics in Signal</span>
         <span class="cmti-10">Processing </span>5.3 (2011), pp. 606&#8211;617.
-    </dd>
   </dl>
 
   <!--l. 43-->
