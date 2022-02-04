@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 # permalink: /publications/
-permalink: plain_publication_list.html
+permalink: /publications/plain_publication_list.html
 author_profile: true
 ---
 
