@@ -15,9 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
-
 <head>
   <title></title>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -43,42 +41,42 @@ author_profile: true
       <!--l. 38-->
       <p class="noindent">S. Landwehr, M. Volpi, et al. ;Biogeochemistry and Physics of the Southern Ocean-Atmosphere System Explored With Data Science;. In: <span class="cmti-10">Earth System Dynamics Discussions </span>(2021), pp. 1&#8211;114.
       <!--l. 38-->
-      <p class="noindent">E. Acheson, <span class="cmbx-10">M. Volpi</span>, and R.S. Purves. &#8220;Machine learning
+      <p class="noindent">E. Acheson, M.Volpi, and R.S. Purves. &#8220;Machine learning
         for
         cross-gazetteer matching of natural features&#8221;. In: <span class="cmti-10">International</span>
         <span class="cmti-10">Journal of Geographical Information Science </span>34.4 (2020),
         pp. 708&#8211;734.
       <!--l. 38-->
-      <p class="noindent">S. Landwehr, <span class="cmbx-10">M. Volpi</span>, M.H. Derkani, F. Nelli, A. Alberello, A.
+      <p class="noindent">S. Landwehr, M.Volpi, M.H. Derkani, F. Nelli, A. Alberello, A.
         Toffoli, M. Gysel-Beer, R. L. Modini, and J. Schmale. &#8220;Sea State
         and Boundary Layer Stability Limit Sea Spray Aerosol Lifetime
         over the Southern Ocean&#8221;. In: <span class="cmti-10">Earth and Space Science Open</span>
         <span class="cmti-10">Archive (Submitted to Geophysical Research Letters)&#8216; </span>(2020).
       <!--l. 38-->
-      <p class="noindent">R. Roscher, <span class="cmbx-10">M. Volpi</span>, C. Mallet, L. Drees, and J. D. Wegner.
+      <p class="noindent">R. Roscher, M.Volpi, C. Mallet, L. Drees, and J. D. Wegner.
         &#8220;SemCity Toulouse: A
         benchmark for building instance segmentation in satellite images&#8221;.
         In: <span class="cmti-10">ISPRS Annals of Photogrammetry, Remote Sensing and Spatial</span>
         <span class="cmti-10">Information Sciences </span>5 (2020), pp. 109&#8211;116.
       <!--l. 38-->
-      <p class="noindent">S.I.B. Roth, R. Leiterer, <span class="cmbx-10">M. Volpi</span>, E. Celio, M. Schaepman, and
+      <p class="noindent">S.I.B. Roth, R. Leiterer, M.Volpi, E. Celio, M. Schaepman, and
         P.C. Joerg. &#8220;Automated detection of individual clove trees for yield
         quantification in north-eastern Madagascar based on multi-spectral
         satellite data&#8221;. In: <span class="cmti-10">Remote Sensing of Environment </span>221 (2019),
         pp. 144&#8211;156.
       <!--l. 38-->
-      <p class="noindent">D. Marcos, <span class="cmbx-10">M. Volpi</span>, B. Kellenberger, and D. Tuia. &#8220;Land
+      <p class="noindent">D. Marcos, M.Volpi, B. Kellenberger, and D. Tuia. &#8220;Land
         cover mapping at very high resolution with rotation equivariant
         CNNs: Towards small yet accurate models&#8221;. In: <span class="cmti-10">ISPRS Journal of</span>
         <span class="cmti-10">Photogrammetry and Remote Sensing </span>145.A (2018), pp. 96&#8211;107.
       <!--l. 38-->
-      <p class="noindent">G. Milani, <span class="cmbx-10">M. Volpi</span>, D. Tonolla, M. Doering, C. Robinson,
-        M. Kneub�hler, and M. Schaepman. &#8220;Robust Quantification
+      <p class="noindent">G. Milani, M.Volpi, D. Tonolla, M. Doering, C. Robinson,
+        M. Kneubühler, and M. Schaepman. &#8220;Robust Quantification
         of Riverine Land Cover Dynamics by High-Resolution Remote
         Sensing&#8221;. In: <span class="cmti-10">Remote Sensing of Environment </span>217 (2018),
         pp. 491&#8211;505.
       <!--l. 38-->
-      <p class="noindent">D. Tuia, <span class="cmbx-10">M. Volpi</span>, and G. Moser. &#8220;Decision Fusion With
+      <p class="noindent">D. Tuia, M.Volpi, and G. Moser. &#8220;Decision Fusion With
         Multiple
         Spatial Supports by Conditional Random Fields&#8221;. In: <span class="cmti-10">IEEE</span>
         <span class="cmti-10">Transactions on Geoscience and Remote Sensing </span>56.6 (2018),
@@ -89,13 +87,13 @@ author_profile: true
         images&#8221;. In: <span class="cmti-10">ISPRS Journal of Photogrammetry and Remote</span>
         <span class="cmti-10">Sensing </span>144 (2018), pp. 48&#8211;60.
       <!--l. 38-->
-      <p class="noindent">J.D. Wegner, R. Roscer, <span class="cmbx-10">M. Volpi</span>, and F. Veronesi.
+      <p class="noindent">J.D. Wegner, R. Roscer, M.Volpi, and F. Veronesi.
         &#8220;Foreword
         to the Special Issue on Machine Learning for Geospatial Data
         Analysis&#8221;. In: <span class="cmti-10">ISPRS International Journal of Geo-Information</span>
         7.147 (2018).
       <!--l. 38-->
-      <p class="noindent">N. Rey, <span class="cmbx-10">M. Volpi</span>, S. Joost, and D. Tuia. &#8220;Detecting animals
+      <p class="noindent">N. Rey, M.Volpi, S. Joost, and D. Tuia. &#8220;Detecting animals
         in
         African Savannah with the help of UAVs and the crowds&#8221;. In:
         <span class="cmti-10">Remote Sensing of Environment </span>(2017). in press.
@@ -106,13 +104,13 @@ author_profile: true
         <span class="cmti-10">Transactions on Geoscience and Remote Sensing </span>55.2 (2017),
         pp. 881&#8211;893.
       <!--l. 38-->
-      <p class="noindent">G. Ireland, <span class="cmbx-10">M. Volpi</span>, and G. P. Petropoulos. &#8220;Examining
+      <p class="noindent">G. Ireland, M.Volpi, and G. P. Petropoulos. &#8220;Examining
         the capability of supervised machine learning classifiers in
         extracting flooded areas from Landsat TM imagery: a case study
         from a Mediterranean flood&#8221;. In: <span class="cmti-10">Remote Sensing </span>7.3 (2015),
         pp. 3372&#8211;3399.
       <!--l. 38-->
-      <p class="noindent">G. Matasci, <span class="cmbx-10">M. Volpi</span>, M. Kanevski, L. Bruzzone, and D.
+      <p class="noindent">G. Matasci, M.Volpi, M. Kanevski, L. Bruzzone, and D.
         Tuia. &#8220;Semisupervised transfer component analysis for domain
         adaptation in remote sensing image classification&#8221;. In: <span class="cmti-10">IEEE</span>
         <span class="cmti-10">Transactions on Geoscience and Remote Sensing </span>57.7 (2015),
@@ -125,12 +123,12 @@ author_profile: true
         In: <span class="cmti-10">ISPRS Journal of Photogrammetry and Remote Sensing </span>107
         (2015), pp. 50&#8211;63.
       <!--l. 38-->
-      <p class="noindent">D. Tuia, <span class="cmbx-10">M. Volpi</span>, M. Dalla&#x00A0;Mura, A. Rakotomamonjy, and
+      <p class="noindent">D. Tuia, M.Volpi, M. Dalla&#x00A0;Mura, A. Rakotomamonjy, and
         R. Flamary. &#8220;Automatic feature learning for spatio-spectral
         image classification with sparse SVM&#8221;. In: <span class="cmti-10">IEEE Transactions on</span>
         <span class="cmti-10">Geoscience and Remote Sensing </span>52.10 (2014), pp. 6062&#8211;6074.
       <!--l. 38-->
-      <p class="noindent">D. Tuia, <span class="cmbx-10">M. Volpi</span>, M. Trolliet, and G. Camps-Valls.
+      <p class="noindent">D. Tuia, M.Volpi, M. Trolliet, and G. Camps-Valls.
         &#8220;Semisupervised manifold alignment of multimodal remote sensing
         images&#8221;. In: <span class="cmti-10">IEEE Transactions on Geoscience and Remote</span>
         <span class="cmti-10">Sensing </span>52.12 (2014), pp. 7708&#8211;7720.
@@ -139,7 +137,7 @@ author_profile: true
         D. Tuia. &#8220;Semi-supervised multiview embedding for hyperspectral
         data classification&#8221;. In: <span class="cmti-10">Neurocomputing </span>145 (2014), pp. 427&#8211;437.
       <!--l. 38-->
-      <p class="noindent">I. M. Penna, M.-H. Derron, <span class="cmbx-10">M. Volpi</span>, and M. Jaboyedoff.
+      <p class="noindent">I. M. Penna, M.-H. Derron, M.Volpi, and M. Jaboyedoff.
         &#8220;Analysis of past and future dam formation and failure in the Santa
         Cruz River (San Juan province, Argentina)&#8221;. In: <span class="cmti-10">Geomorphology</span>
         186 (2013), pp. 28&#8211;30.
@@ -156,7 +154,7 @@ author_profile: true
         <span class="cmti-10">Journal of Applied Earth Observation and Geoinformation </span>20
         (2013), pp. 77&#8211;85.
       <!--l. 38-->
-      <p class="noindent">N. Longbotham, F. Pacifici, T. Glenn, A. Zare, <span class="cmbx-10">M. Volpi</span>, D.
+      <p class="noindent">N. Longbotham, F. Pacifici, T. Glenn, A. Zare, M.Volpi, D.
         Tuia, E. Christophe, J. Michel, J. Inglada, J. Chanussot, and Q.
         Du. &#8220;Multi-modal change detection, application to the detection
         of flooded areas: outcome of the 2009-2010 data fusion contest&#8221;.
@@ -172,12 +170,11 @@ author_profile: true
         <span class="cmti-10">Transactions on Geoscience and Remote Sensing </span>50.8 (2012),
         pp. 3096&#8211;3016.
       <!--l. 38-->
-      <p class="noindent">D. Tuia, <span class="cmbx-10">M. Volpi</span>, L. Copa, M. Kanevski, and J. Mu�oz-Mar�.
+      <p class="noindent">D. Tuia, M.Volpi, L. Copa, M. Kanevski, and J. Muñoz-Marì.
         &#8220;A
         survey of active leaning algorithms for supervised remote sensing
         image classification&#8221;. In: <span class="cmti-10">IEEE Journal of Selected Topics in Signal</span>
         <span class="cmti-10">Processing </span>5.3 (2011), pp. 606&#8211;617.
-  </dl>
 
   <!--l. 43-->
   <p class="noindent">
@@ -190,7 +187,8 @@ author_profile: true
     <dd id="bib-27" class="thebibliography">
       <!--l. 43-->
       <p class="noindent">S. Stalder, N. Perraudin, R. Achanta, F. Perez-Cruz, and
-        <span class="cmbx-10">M. Volpi</span>. &#8220;What You See is What You Classify: Black
+        M.Volpi
+. &#8220;What You See is What You Classify: Black
         Box Attributions&#8221;. In: <span class="cmti-10">Submitted to IEEE/CVF Conference on</span>
         <span class="cmti-10">Computer Vision and Pattern Recognition</span>. 2022.
     </dd>
@@ -199,7 +197,8 @@ author_profile: true
     <dd id="bib-28" class="thebibliography">
       <!--l. 43-->
       <p class="noindent">C. P�rez-Guill�n, M. Hendrick, F. Techel, A. van Herwijnen,
-        <span class="cmbx-10">M. Volpi</span>, T. Olevski, F. P�rez-Cruz, G. Obozinski, and J.
+        M.Volpi
+, T. Olevski, F. P�rez-Cruz, G. Obozinski, and J.
         Schweizer. &#8220;Data-driven automatic predictions of avalanche danger
         in Switzerland&#8221;. In: <span class="cmti-10">EGU General Assembly Conference Abstracts</span>.
         2021, EGU21&#8211;6154.
@@ -208,7 +207,7 @@ author_profile: true
       [Lan+20] </dt>
     <dd id="bib-29" class="thebibliography">
       <!--l. 43-->
-      <p class="noindent">S. Landwehr, <span class="cmbx-10">M. Volpi</span>, F. Perez-Cruz, and J. Schmale.
+      <p class="noindent">S. Landwehr, M.Volpi, F. Perez-Cruz, and J. Schmale.
         &#8220;Sparse
         Principal Component Analysis as a tool for the exploration of
         heterogeneous datasets from multidisciplinary field experiments&#8221;.
@@ -218,7 +217,7 @@ author_profile: true
       [Lan+19] </dt>
     <dd id="bib-30" class="thebibliography">
       <!--l. 43-->
-      <p class="noindent">S. Landwehr, R. Modini, J. Schmale, <span class="cmbx-10">M. Volpi</span>, A. Toffoli, I.
+      <p class="noindent">S. Landwehr, R. Modini, J. Schmale, M.Volpi, A. Toffoli, I.
         Thurnherr, F. Aemisegger, and H. Wernli. &#8220;Investigation of sea
         spray source functions with remote ocean aerosol size spectra
         measurements from the Antarctic Circumnavigation Experiment&#8221;.
@@ -228,7 +227,7 @@ author_profile: true
       [Ach+17] </dt>
     <dd id="bib-31" class="thebibliography">
       <!--l. 43-->
-      <p class="noindent">E. Acheson, J. Villette, <span class="cmbx-10">M. Volpi</span>, and R.S. Purves.
+      <p class="noindent">E. Acheson, J. Villette, M.Volpi, and R.S. Purves.
         &#8220;Gazetteer
         Matching for Natural Features in Switzerland&#8221;. In: <span class="cmti-10">Proceedings of</span>
         <span class="cmti-10">the 11th Workshop on Geographic Information Retrieval</span>. 2017.
@@ -237,17 +236,16 @@ author_profile: true
       [Kel+17] </dt>
     <dd id="bib-32" class="thebibliography">
       <!--l. 43-->
-      <p class="noindent">B. Kellenberger, <span class="cmbx-10">M. Volpi</span>, and D. Tuia. &#8220;Fast animal
+      <p class="noindent">B. Kellenberger, M.Volpi, and D. Tuia. &#8220;Fast animal
         detection in uav images using convolutional neural networks&#8221;. In:
         <span class="cmti-10">IEEE International Geosciences and Remote Sensing Symposium</span>
         <span class="cmti-10">IGARSS 2017, Fort Worth, (USA)</span>. 2017.
-
     </dd>
     <dt id="X0-kellenberger2017jurse" class="thebibliography">
       [Kel+17] </dt>
     <dd id="bib-33" class="thebibliography">
       <!--l. 43-->
-      <p class="noindent">B. Kellenberger, <span class="cmbx-10">M. Volpi</span>, and D. Tuia. &#8220;Learning class-
+      <p class="noindent">B. Kellenberger, M.Volpi, and D. Tuia. &#8220;Learning class-
         and
         location-specific priors for urban semantic labeling with CNNs&#8221;. In:
         <span class="cmti-10">Joint Urban Remote Sensing Event JURSE 2017, Dubai (UAE)</span>.
@@ -257,7 +255,7 @@ author_profile: true
       [Mar+17] </dt>
     <dd id="bib-34" class="thebibliography">
       <!--l. 43-->
-      <p class="noindent">D. Marcos, <span class="cmbx-10">M. Volpi</span>, N. Komodakis, and D. Tuia. &#8220;Rotation
+      <p class="noindent">D. Marcos, M.Volpi, N. Komodakis, and D. Tuia. &#8220;Rotation
         equivariant vector field networks&#8221;. In: <span class="cmti-10">ICCV International</span>
         <span class="cmti-10">Conference on Computer Vision, Venice (I)</span>. 2017.
     </dd>
@@ -265,7 +263,7 @@ author_profile: true
       [Sri+17] </dt>
     <dd id="bib-35" class="thebibliography">
       <!--l. 43-->
-      <p class="noindent">S. Srivastava, <span class="cmbx-10">M. Volpi</span>, and D. Tuia. &#8220;Joint height
+      <p class="noindent">S. Srivastava, M.Volpi, and D. Tuia. &#8220;Joint height
         estimation
         and semantic labeling of monocular aerial images with CNNs&#8221;. In:
         <span class="cmti-10">IEEE International Geosciences and Remote Sensing Symposium</span>
@@ -275,7 +273,7 @@ author_profile: true
       [Mar+16] </dt>
     <dd id="bib-36" class="thebibliography">
       <!--l. 43-->
-      <p class="noindent">D. Marcos, <span class="cmbx-10">M. Volpi</span>, and D. Tuia. &#8220;Learning rotation
+      <p class="noindent">D. Marcos, M.Volpi, and D. Tuia. &#8220;Learning rotation
         invariant
         convolutional filters for texture classification&#8221;. In: <span class="cmti-10">In 23nd</span>
         <span class="cmti-10">International Conference on Pattern Recognition ICPR 2016,</span>
@@ -285,7 +283,7 @@ author_profile: true
       [Mar+16] </dt>
     <dd id="bib-37" class="thebibliography">
       <!--l. 43-->
-      <p class="noindent">D. Marcos, <span class="cmbx-10">M. Volpi</span>, and D. Tuia. &#8220;Solving structured
+      <p class="noindent">D. Marcos, M.Volpi, and D. Tuia. &#8220;Solving structured
         segmentation of aerial images as puzzles&#8221;. In: <span class="cmti-10">IEEE International</span>
         <span class="cmti-10">Geosciences and Remote Sensing Symposium IGARSS 2016,</span>
         <span class="cmti-10">Beijing (CHN)</span>. 2016.
@@ -294,7 +292,7 @@ author_profile: true
       [Tui+16] </dt>
     <dd id="bib-38" class="thebibliography">
       <!--l. 43-->
-      <p class="noindent">D. Tuia, <span class="cmbx-10">M. Volpi</span>, and G. Moser. &#8220;Getting pixels and
+      <p class="noindent">D. Tuia, M.Volpi, and G. Moser. &#8220;Getting pixels and
         regions
         to agree with conditional random fields&#8221;. In: <span class="cmti-10">IEEE International</span>
         <span class="cmti-10">Geosciences and Remote Sensing Symposium IGARSS 2016,</span>
@@ -334,7 +332,7 @@ author_profile: true
       [Tui+14] </dt>
     <dd id="bib-42" class="thebibliography">
       <!--l. 43-->
-      <p class="noindent">D. Tuia, <span class="cmbx-10">M. Volpi</span>, and G. Camps-Valls. &#8220;Unsupervised
+      <p class="noindent">D. Tuia, M.Volpi, and G. Camps-Valls. &#8220;Unsupervised
         alignment
         of image manifolds with centrality measures&#8221;. In: <span class="cmti-10">In 22nd</span>
         <span class="cmti-10">International Conference on Pattern Recognition ICPR 2014,</span>
@@ -353,7 +351,7 @@ author_profile: true
       [Mat+13] </dt>
     <dd id="bib-44" class="thebibliography">
       <!--l. 43-->
-      <p class="noindent">G. Matasci, L. Bruzzone, <span class="cmbx-10">M. Volpi</span>, D. Tuia, and M. Kanevski.
+      <p class="noindent">G. Matasci, L. Bruzzone, M.Volpi, D. Tuia, and M. Kanevski.
         &#8220;Investigating feature extraction for domain adaptation in remote
         sensing image classification&#8221;. In: <span class="cmti-10">International Conference on</span>
         <span class="cmti-10">Pattern Recognition Application and Methods ICPRAM 2013,</span>
@@ -363,7 +361,7 @@ author_profile: true
       [Tro+13] </dt>
     <dd id="bib-45" class="thebibliography">
       <!--l. 43-->
-      <p class="noindent">M. Trolliet, D. Tuia, and <span class="cmbx-10">M. Volpi</span>. &#8220;Classification of
+      <p class="noindent">M. Trolliet, D. Tuia, and M.Volpi. &#8220;Classification of
         urban
         multi-angular image sequences by aligning their manifolds&#8221;. In:
         <span class="cmti-10">Joint Urban Remote Sensing Event JURSE 2013, Sao Paolo</span>
@@ -373,7 +371,7 @@ author_profile: true
       [Tui+13] </dt>
     <dd id="bib-46" class="thebibliography">
       <!--l. 43-->
-      <p class="noindent">D. Tuia, M. Trolliet, and <span class="cmbx-10">M. Volpi</span>. &#8220;Multisensor alignment
+      <p class="noindent">D. Tuia, M. Trolliet, and M.Volpi. &#8220;Multisensor alignment
         of
         image manifolds&#8221;. In: <span class="cmti-10">IEEE International Geosciences and Remote</span>
         <span class="cmti-10">Sensing Symposium IGARSS 2013, Melbourne (AUS)</span>. 2013.
@@ -383,7 +381,7 @@ author_profile: true
     <dd id="bib-47" class="thebibliography">
 
       <!--l. 43-->
-      <p class="noindent">D. Tuia, <span class="cmbx-10">M. Volpi</span>, M. Dalla&#x00A0;Mura, A. Rakotomamonjy, and
+      <p class="noindent">D. Tuia, M.Volpi, M. Dalla&#x00A0;Mura, A. Rakotomamonjy, and
         R. Flamary. &#8220;Create the relevant spatial filterbank in the
         hyperspectral jungle&#8221;. In: <span class="cmti-10">IEEE International Geosciences and</span>
         <span class="cmti-10">Remote Sensing Symposium IGARSS 2013, Melbourne (AUS)</span>.
@@ -413,7 +411,7 @@ author_profile: true
       [Tui+12] </dt>
     <dd id="bib-50" class="thebibliography">
       <!--l. 43-->
-      <p class="noindent">D. Tuia, <span class="cmbx-10">M. Volpi</span>, M. Dalla&#x00A0;Mura, A. Rakotomamonjy, and R.
+      <p class="noindent">D. Tuia, M.Volpi, M. Dalla&#x00A0;Mura, A. Rakotomamonjy, and R.
         Flamary. &#8220;Discovering relevant spatial filterbanks for VHR image
         classification&#8221;. In: <span class="cmti-10">In 21st International Conference on Pattern</span>
         <span class="cmti-10">Recognition ICPR 2012, 2012, Tsukuba (JAP)</span>. 2012.
@@ -431,7 +429,7 @@ author_profile: true
       [Mat+11] </dt>
     <dd id="bib-52" class="thebibliography">
       <!--l. 43-->
-      <p class="noindent">G. Matasci, <span class="cmbx-10">M. Volpi</span>, D. Tuia, and M. Kanevski. &#8220;Transfer
+      <p class="noindent">G. Matasci, M.Volpi, D. Tuia, and M. Kanevski. &#8220;Transfer
         component analysis for domain adaptation in image classification&#8221;.
         In: <span class="cmti-10">SPIE Image and Signal Processing for Remote Sensing XVII,</span>
         <span class="cmti-10">Prague (CZ)</span>. Ed. by L. Bruzzone. Vol.&#x00A0;8180. 2011.
@@ -450,7 +448,7 @@ author_profile: true
     <dd id="bib-54" class="thebibliography">
 
       <!--l. 43-->
-      <p class="noindent">L. Copa, D. Tuia, <span class="cmbx-10">M. Volpi</span>, and M. Kanevski. &#8220;Unbiased
+      <p class="noindent">L. Copa, D. Tuia, M.Volpi, and M. Kanevski. &#8220;Unbiased
         query-by-bagging active learning for VHR image classification&#8221;.
         In: <span class="cmti-10">SPIE Image and Signal Processing for Remote Sensing XVI,</span>
         <span class="cmti-10">Toulouse (F)</span>. Ed. by L. Bruzzone. Vol.&#x00A0;7830(1). 2010.
@@ -495,7 +493,8 @@ author_profile: true
     <dd id="bib-58" class="thebibliography">
       <!--l. 48-->
       <p class="noindent">R. Cere, M. Conedera, G. Matasci, M. Kanevski, M. Tonini,
-        C. Vega, and <span class="cmbx-10">M. Volpi</span>. &#8220;Wildland-Urban Interface evolution
+        C. Vega, and M.Volpi
+. &#8220;Wildland-Urban Interface evolution
         mapping using multi-temporal Landsat imagery. The case of forest
         fires in southern Swiss Alps&#8221;. In: <span class="cmti-10">European Geosciences Union</span>
         <span class="cmti-10">General Assembly EGU 2012, Vienna (AUT)</span>. 2012.
@@ -523,7 +522,7 @@ author_profile: true
       [Cha+10] </dt>
     <dd id="bib-61" class="thebibliography">
       <!--l. 48-->
-      <p class="noindent">M. Charri�re, A. Pedrazzini, M. G�ell Pons, <span class="cmbx-10">M. Volpi</span>, M.
+      <p class="noindent">M. Charri�re, A. Pedrazzini, M. G�ell Pons, M.Volpi, M.
         Jaboyedoff, C. Froese, and M. Kanevski. &#8220;The characterization of
         the Frank Slide deposit&#8221;. In: <span class="cmti-10">European Geosciences Union General</span>
         <span class="cmti-10">Assembly EGU 2010, Vienna (AUT)</span>. 2010.
@@ -532,7 +531,7 @@ author_profile: true
       [Hum+10] </dt>
     <dd id="bib-62" class="thebibliography">
       <!--l. 48-->
-      <p class="noindent">F. Humair, M. Charri�re, A. Pedrazzini, M. G�ell Pons, <span class="cmbx-10">M. Volpi</span>,
+      <p class="noindent">F. Humair, M. Charri�re, A. Pedrazzini, M. G�ell Pons, M.Volpi,
         L. Foresti, M. Jaboyedoff, J.L. Epard, and C. Froese. &#8220;The Frank
         Slide (Alberta, Canada): from the contributing factors to the
         processes of propagation&#8221;. In: <span class="cmti-10">International Canadian Geotechnical</span>
@@ -543,7 +542,7 @@ author_profile: true
       [Kan+10] </dt>
     <dd id="bib-63" class="thebibliography">
       <!--l. 48-->
-      <p class="noindent">M. Kanevski, <span class="cmbx-10">M. Volpi</span>, and L. Copa. &#8220;Environmental
+      <p class="noindent">M. Kanevski, M.Volpi, and L. Copa. &#8220;Environmental
         monitoring
         networks optimization using advanced active learning algorithms&#8221;.
         In: <span class="cmti-10">European Geosciences Union General Assembly EGU 2010,</span>
@@ -602,7 +601,7 @@ author_profile: true
       [Tho+19] </dt>
     <dd id="bib-68" class="thebibliography">
       <!--l. 53-->
-      <p class="noindent">J. Thomas, S. Landwehr, <span class="cmbx-10">M. Volpi</span>, and J. Schmale. <span
+      <p class="noindent">J. Thomas, S. Landwehr, M.Volpi, and J. Schmale. <span
           class="cmti-10">ACE-DATA:</span>
         <span class="cmti-10">Antarctic Circumnavigation Expedition &#8211; Delivering Added value</span>
         <span class="cmti-10">To Antarctica (Version 1.0)</span>. <br
