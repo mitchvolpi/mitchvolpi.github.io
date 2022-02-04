@@ -1,7 +1,7 @@
 #!/bin/bash 
 
 CF=$PWD
-echo $CF/_publications/plain_publication_list.html
+# echo $CF/_publications/plain_publication_list.html
 
 cd /Users/mvolpi/Documents/admin_generic/perso/PublicationList/
 
