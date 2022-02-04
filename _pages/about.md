@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal webpage. Here you can find information about myself, my research and related stuff. 
+Welcome to my personal webpage. Here you can find information about myself, my research and project I work on. 
 
-I am a Senior Data Scientist at the Swiss Data Science Center, sitting at the ETH Zurich office. I work on research projects involving machine learning and computer vision for environmental applications, such as Earth observation, biodiversity monitoring, natural hazards forecasting and climate sciences. 
+I am a Senior Data Scientist at the Swiss Data Science Center, sitting at the ETH Zurich office. I work on research projects involving machine learning and computer vision for environmental applications, such as Earth observation, biodiversity monitoring, natural hazard forecasting, mapping and climate sciences. 
