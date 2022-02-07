@@ -10,9 +10,7 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 ## 2022 
 
 <li>C. Pérez-Guillén, F. Techel, M. Hendrick, <b>M. Volpi</b>, A. van
-Herwijnen, T. Olevski, G. Obozinski, F. Pérez-Cruz, and J. Schweizer. 
-<br> Data-driven automated predictions of the avalanche danger level
-for dry-snow conditions in Switzerland.[ <b><a href="https://nhess.copernicus.org/preprints/nhess-2021-341/" target="_blank">PDF</a></b>] <br> To Appear in: <i>Nat. Hazards Earth Syst. Sci. Discuss. [preprint]</i>(2022).</li>
+Herwijnen, T. Olevski, G. Obozinski, F. Pérez-Cruz, and J. Schweizer. "Data-driven automated predictions of the avalanche danger level for dry-snow conditions in Switzerland." [<b><a href="https://nhess.copernicus.org/preprints/nhess-2021-341/" target="_blank">PDF</a></b>]. To Appear in: <i>Nat. Hazards Earth Syst. Sci. Discuss. [preprint]</i> (2022).</li>
 
 <!-- <li>Chenlin Meng, Yutong He, Yang Song, Jiaming Song, Jiajun Wu, Jun-Yan Zhu, <b>Stefano Ermon</b><br> 
 SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations [<b><a href="https://arxiv.org/pdf/2108.01073.pdf" target="_blank">PDF</a></b>] <br>
