@@ -23,7 +23,6 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 <h3 class="sectionHead"><a id="x1-1000"></a>Journal</h3>
 <!--l. 66-->
 <p class="noindent">
-<dl class="thebibliography">
 		<dt id="X0-perez2022cryo" class="thebibliography">
 				<span class="cmbx-10">2022</span>
 		</dt>
@@ -268,18 +267,16 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 						algorithms for supervised remote sensing image classification&#8221;. In: <span
 								class="cmti-10">IEEE Journal of Selected Topics</span>
 						<span class="cmti-10">in Signal Processing </span>5.3 (2011), pp. 606&#8211;617.
-</dl>
 <!--l. 71-->
 <p class="noindent">
 <h3 class="sectionHead"><a id="x1-2000"></a>Proceedings (peer reviewed)</h3>
 <!--l. 71-->
 <p class="noindent">
-<dl class="thebibliography">
 		<dt id="X0-stalder2022cvpr" class="thebibliography">
 				<span class="cmbx-10">2022</span>
 		</dt>
 				<!--l. 71-->
-				<p class="noindent">S. Stalder, N. Perraudin, R. Achanta, F. Perez-Cruz, and <span
+				<p class="noindent">S. Stalder, N. Perraudin, R. Achanta, F. Pérez-Cruz, and <span
 								class="cmbx-10">M. Volpi</span>. &#8220;What You See is What You
 						Classify: Black Box Attributions&#8221;. In: <span class="cmti-10">Submitted to IEEE/CVF
 								Conference on Computer Vision</span>
@@ -288,18 +285,16 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 				<span class="cmbx-10">2021</span>
 		</dt>
 				<!--l. 71-->
-				<p class="noindent">C. P�rez-Guill�n, M. Hendrick, F. Techel, A. van Herwijnen, <span
-								class="cmbx-10">M. Volpi</span>, T. Olevski, F. P�rez-Cruz,
-						G. Obozinski, and J. Schweizer. &#8220;Data-driven automatic predictions of avalanche
-						danger in
-						Switzerland&#8221;. In: <span class="cmti-10">EGU General Assembly Conference
+				<p class="noindent">C. Pérez-Guillén, M. Hendrick, F. Techel, A. van Herwijnen, <span
+								class="cmbx-10">M. Volpi</span>, T. Olevski, F. Pérez-Cruz,
+						G. Obozinski, and J. Schweizer. &#8220;Data-driven automatic predictions of avalanche danger in Switzerland&#8221;. In: <span class="cmti-10">EGU General Assembly Conference
 								Abstracts</span>. 2021, EGU21&#8211;6154.
 
 		<dt id="X0-landwehr2020dsclim" class="thebibliography">
 				<span class="cmbx-10">2020</span>
 		</dt>
 				<!--l. 71-->
-				<p class="noindent">S. Landwehr, M. Volpi, F. Perez-Cruz, and J.
+				<p class="noindent">S. Landwehr, M. Volpi, F. Pérez-Cruz, and J.
 						Schmale. &#8220;Sparse Principal Component Analysis as
 						a tool for the exploration of heterogeneous datasets from multidisciplinary field
 						experiments&#8221;. In:
@@ -319,7 +314,7 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 				<span class="cmbx-10">2017</span>
 		</dt>
 				<!--l. 71-->
-				<p class="noindent">E. Acheson, J. Villette, M. Volpi, and R.S.
+				<p class="noindent">E. Acheson, J. Villette, M. Volpi, and R. S.
 						Purves. &#8220;Gazetteer Matching for Natural Features in
 						Switzerland&#8221;. In: <span class="cmti-10">Proceedings of the 11th Workshop on
 								Geographic Information Retrieval</span>. 2017.
@@ -487,7 +482,6 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 								Neural Networks, Computational</span>
 						<span class="cmti-10">Intelligence and Machine Learning ESANN 2013, Bruges (B)</span>.
 						2013.
-
 		<dt id="X0-tuia2012icpr" class="thebibliography">
 				<span class="cmbx-10">2012</span>
 		</dt>
@@ -561,17 +555,14 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 								Workshop on Machine Learning for</span>
 						<span class="cmti-10">Signal Processing MLSP 2009, Grenoble (F)</span>. 2009, pp.
 						1&#8211;6.
-</dl>
 <!--l. 76-->
 <p class="noindent">
 <h3 class="sectionHead"><a id="x1-3000"></a>Various (not peer reviewed)</h3>
 <!--l. 76-->
 <p class="noindent">
-<dl class="thebibliography">
 		<dt id="X0-cere2012egu" class="thebibliography">
 				<span class="cmbx-10">2012</span>
 		</dt>
-
 				<!--l. 76-->
 				<p class="noindent">R. Cere, M. Conedera, G. Matasci, M. Kanevski, M. Tonini, C. Vega, and <span
 								class="cmbx-10">M. Volpi</span>.
@@ -645,13 +636,11 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 						a kernelized clustering algorithm&#8221;. In: <span class="cmti-10">European Geosciences
 								Union General Assembly EGU 2010,</span>
 						<span class="cmti-10">Vienna (AUT)</span>. 2010.
-</dl>
 <!--l. 81-->
 <p class="noindent">
 <h3 class="sectionHead"><a id="x1-4000"></a>Various (not peer reviewed)</h3>
 <!--l. 81-->
 <p class="noindent">
-<dl class="thebibliography">
 		<dt id="X0-volpi2020datadistcoast" class="thebibliography">
 				<span class="cmbx-10">2020</span>
 		</dt>
@@ -741,7 +730,6 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 				<p class="noindent">M. Volpi, D. Tuia, and M. Kanevski. <span
 								class="cmti-10">Active learning of remote sensing images</span>. S4 Workshop,
 						Spatio-Temporal Data Analysis, Cork (IRL). 2010.
-</dl>
 
 </body>
 
