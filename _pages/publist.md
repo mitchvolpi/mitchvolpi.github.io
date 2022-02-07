@@ -23,9 +23,6 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 <h3 class="sectionHead"><a id="x1-1000"></a>Journal</h3>
 <!--l. 66-->
 <p class="noindent">
-		<dt id="X0-perez2022cryo" class="thebibliography">
-				<span class="cmbx-10">2022</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent"><a id="page.1"></a><a href="plain_publication_list.html" id="X0-"></a>C. Pérez-Guillén, F. Techel, M. Hendrick, M. Volpi, A. van
 						Herwijnen, T. Olevski, G. Obozinski,
@@ -33,26 +30,17 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 						avalanche danger level
 						for dry-snow conditions in Switzerland&#8221;. In: <span class="cmti-10">Submitted
 						</span>(2022).
-		<dt id="X0-landwehr2021spca" class="thebibliography">
-				<span class="cmbx-10">2021</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">S. Landwehr, M. Volpi, and et al.
 						&#8220;Biogeochemistry and Physics of the Southern
 						Ocean-Atmosphere System Explored With Data Science&#8221;. In: <span
 								class="cmti-10">Earth System Dynamics Discussions</span>
 						(2021), pp. 1&#8211;114.
-		<dt id="X0-acheson2019ijgis" class="thebibliography">
-				<span class="cmbx-10">2020</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">E. Acheson, M. Volpi, and R.S. Purves.
 						&#8220;Machine learning for cross-gazetteer matching of natural
 						features&#8221;. In: <span class="cmti-10">International Journal of Geographical
 								Information Science </span>34.4 (2020), pp. 708&#8211;734.
-		<dt id="X0-landwehr2020seastatepreprint" class="thebibliography">
-				<span class="cmbx-10">2020</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">S. Landwehr, M. Volpi, M.H. Derkani, F. Nelli,
 						A. Alberello, A. Toffoli, M. Gysel-Beer, R. L.
@@ -61,9 +49,6 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 						over the Southern Ocean&#8221;. In: <span class="cmti-10">Earth and Space Science Open
 								Archive (Submitted to Geophysical</span>
 						<span class="cmti-10">Research Letters)&#8216; </span>(2020).
-		<dt id="X0-roscher2020annalsisprs" class="thebibliography">
-				<span class="cmbx-10">2020</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">R. Roscher, M. Volpi, C. Mallet, L. Drees, and
 						J. D. Wegner. &#8220;SemCity Toulouse: A benchmark for
@@ -71,9 +56,6 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 								class="cmti-10">ISPRS Annals of Photogrammetry, Remote</span>
 						<span class="cmti-10">Sensing and Spatial Information Sciences </span>5 (2020), pp.
 						109&#8211;116.
-		<dt id="X0-roth2019rse" class="thebibliography">
-				<span class="cmbx-10">2019</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">S.I.B. Roth, R. Leiterer, M. Volpi, E. Celio,
 						M. Schaepman, and P.C. Joerg. &#8220;Automated detection
@@ -81,9 +63,6 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 						multi-spectral
 						satellite data&#8221;. In: <span class="cmti-10">Remote Sensing of Environment
 						</span>221 (2019), pp. 144&#8211;156.
-		<dt id="X0-marcos2018isprs" class="thebibliography">
-				<span class="cmbx-10">2018</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">D. Marcos, M. Volpi, B. Kellenberger, and D.
 						Tuia. &#8220;Land cover mapping at very high resolution
@@ -91,9 +70,6 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 								class="cmti-10">ISPRS Journal of</span>
 						<span class="cmti-10">Photogrammetry and Remote Sensing </span>145.A (2018), pp.
 						96&#8211;107.
-		<dt id="X0-milani2018rse" class="thebibliography">
-				<span class="cmbx-10">2018</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">G. Milani, M. Volpi, D. Tonolla, M. Doering, C.
 						Robinson, M. Kneub�hler, and M. Schaepman.
@@ -101,53 +77,33 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 						Sensing&#8221;.
 						In: <span class="cmti-10">Remote Sensing of Environment </span>217 (2018), pp.
 						491&#8211;505.
-		<dt id="X0-tuia2018tgrs" class="thebibliography">
-				<span class="cmbx-10">2018</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">D. Tuia, M. Volpi, and G. Moser.
 						&#8220;Decision Fusion With Multiple Spatial Supports by
 						Conditional Random Fields&#8221;. In: <span class="cmti-10">IEEE Transactions on
 								Geoscience and Remote Sensing </span>56.6
 						(2018), pp. 3277&#8211;3289.
-		<dt id="X0-volpi2018isprs" class="thebibliography">
-				<span class="cmbx-10">2018</span>
-		</dt>
-				<!--l. 66-->
-				<p class="noindent"><span class="cmbx-10">M. Volpi </span>and D. Tuia. &#8220;Deep multi-task
+				
 						learning for a geographically-regularized semantic
 						segmentation of aerial images&#8221;. In: <span class="cmti-10">ISPRS Journal of
 								Photogrammetry and Remote Sensing </span>144
 						(2018), pp. 48&#8211;60.
-		<dt id="X0-wegner2018geoinfo" class="thebibliography">
-				<span class="cmbx-10">2018</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">J.D. Wegner, R. Roscer, M. Volpi, and F.
 						Veronesi. &#8220;Foreword to the Special Issue on Machine
 						Learning for Geospatial Data Analysis&#8221;. In: <span class="cmti-10">ISPRS
 								International Journal of Geo-Information </span>7.147
 						(2018).
-		<dt id="X0-rey2017rse" class="thebibliography">
-				<span class="cmbx-10">2017</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">N. Rey, M. Volpi, S. Joost, and D. Tuia.
 						&#8220;Detecting animals in African Savannah with the help
 						of UAVs and the crowds&#8221;. In: <span class="cmti-10">Remote Sensing of Environment
 						</span>(2017). in press.
-		<dt id="X0-volpi2016tgrs" class="thebibliography">
-				<span class="cmbx-10">2017</span>
-		</dt>
-				<!--l. 66-->
-				<p class="noindent"><span class="cmbx-10">M. Volpi </span>and D. Tuia. &#8220;Dense semantic
+				
 						labeling of sub-decimeter resolution images with
 						convolutional neural networks&#8221;. In: <span class="cmti-10">IEEE Transactions on
 								Geoscience and Remote Sensing </span>55.2
 						(2017), pp. 881&#8211;893.
-		<dt id="X0-ireland2015remsens" class="thebibliography">
-				<span class="cmbx-10">2015</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">G. Ireland, M. Volpi, and G. P. Petropoulos.
 						&#8220;Examining the capability of supervised machine
@@ -155,9 +111,6 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 						from a
 						Mediterranean flood&#8221;. In: <span class="cmti-10">Remote Sensing </span>7.3 (2015),
 						pp. 3372&#8211;3399.
-		<dt id="X0-matasci2015tgrs" class="thebibliography">
-				<span class="cmbx-10">2015</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">G. Matasci, M. Volpi, M. Kanevski, L. Bruzzone,
 						and D. Tuia. &#8220;Semisupervised transfer component
@@ -165,18 +118,12 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 								class="cmti-10">IEEE Transactions on</span>
 						<span class="cmti-10">Geoscience and Remote Sensing </span>57.7 (2015), pp.
 						3550&#8211;3564.
-		<dt id="X0-volpi2015isprs" class="thebibliography">
-				<span class="cmbx-10">2015</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">M. Volpi, G. Camps-Valls, and D. Tuia.
 						&#8220;Spectral alignment of multi-temporal cross-sensor images
 						with automated kernel canonical correlation analysis&#8221;. In: <span
 								class="cmti-10">ISPRS Journal of Photogrammetry and</span>
 						<span class="cmti-10">Remote Sensing </span>107 (2015), pp. 50&#8211;63.
-		<dt id="X0-tuia2014atgrs" class="thebibliography">
-				<span class="cmbx-10">2014</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">D. Tuia, M. Volpi, M. Dalla&#x00A0;Mura, A.
 						Rakotomamonjy, and R. Flamary. &#8220;Automatic feature
@@ -184,26 +131,17 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 								class="cmti-10">IEEE Transactions on</span>
 						<span class="cmti-10">Geoscience and Remote Sensing </span>52.10 (2014), pp.
 						6062&#8211;6074.
-		<dt id="X0-tuia2014tgrs" class="thebibliography">
-				<span class="cmbx-10">2014</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">D. Tuia, M. Volpi, M. Trolliet, and G.
 						Camps-Valls. &#8220;Semisupervised manifold alignment of
 						multimodal remote sensing images&#8221;. In: <span class="cmti-10">IEEE Transactions on
 								Geoscience and Remote Sensing</span>
 						52.12 (2014), pp. 7708&#8211;7720.
-		<dt id="X0-volpi2014neucom" class="thebibliography">
-				<span class="cmbx-10">2014</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">M. Volpi, G. Matasci, M. Kanevski, and D. Tuia.
 						&#8220;Semi-supervised multiview embedding for
 						hyperspectral data classification&#8221;. In: <span class="cmti-10">Neurocomputing
-						</span>145 (2014), pp. 427&#8211;437.
-		<dt id="X0-penna2013geomo" class="thebibliography">
-				<span class="cmbx-10">2013</span>
-		</dt>
+						</span>145 (2014), pp. 427&#8211;437./dt>
 
 				<!--l. 66-->
 				<p class="noindent">I. M. Penna, M.-H. Derron, M. Volpi, and M.
@@ -211,18 +149,12 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 						formation and failure in the Santa Cruz River (San Juan province, Argentina)&#8221;. In:
 						<span class="cmti-10">Geomorphology</span>
 						186 (2013), pp. 28&#8211;30.
-		<dt id="X0-volpi2013compgeo" class="thebibliography">
-				<span class="cmbx-10">2013</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">M. Volpi, G. P. Petropoulos, and M. Kanevski.
 						&#8220;Flooding extent cartography with Landsat TM
 						imagery and regularized kernel Fisher&#8217;s discriminant analysis&#8221;. In: <span
 								class="cmti-10">Computers and Geosciences </span>57
 						(2013), pp. 24&#8211;31.
-		<dt id="X0-volpi2013jag" class="thebibliography">
-				<span class="cmbx-10">2013</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">M. Volpi, D. Tuia, F. Bovolo, M. Kanevski, and
 						L. Bruzzone. &#8220;Supervised change detection in
@@ -230,37 +162,24 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 								class="cmti-10">International Journal</span>
 						<span class="cmti-10">of Applied Earth Observation and Geoinformation </span>20 (2013),
 						pp. 77&#8211;85.
-		<dt id="X0-longbotham2012jstars" class="thebibliography">
-				<span class="cmbx-10">2012</span>
-		</dt>
-				<!--l. 66-->
-				<p class="noindent">N. Longbotham, F. Pacifici, T. Glenn, A. Zare, <span class="cmbx-10">M.
+				
 								Volpi</span>, D. Tuia, E. Christophe, J. Michel, J.
 						Inglada, J. Chanussot, and Q. Du. &#8220;Multi-modal change detection, application to
 						the detection of
 						flooded areas: outcome of the 2009-2010 data fusion contest&#8221;. In: <span
 								class="cmti-10">IEEE Journal of Selected Topics</span>
 						<span class="cmti-10">in Applied Earth Observation </span>9.6 (2012), pp. 331&#8211;342.
-		<dt id="X0-volpi2012grsl" class="thebibliography">
-				<span class="cmbx-10">2012</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">M. Volpi, D. Tuia, G. Camps-Valls, and M.
 						Kanevski. &#8220;Unsupervised change detection with
 						kernels&#8221;. In: <span class="cmti-10">IEEE Geoscience and Remote Sensing Letters
 						</span>9.6 (2012), pp. 1026&#8211;1030.
-		<dt id="X0-volpi2012tgrs" class="thebibliography">
-				<span class="cmbx-10">2012</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">M. Volpi, D. Tuia, and M. Kanevski.
 						&#8220;Memory-based cluster sampling for remote sensing
 						image classification&#8221;. In: <span class="cmti-10">IEEE Transactions on Geoscience
 								and Remote Sensing </span>50.8 (2012),
 						pp. 3096&#8211;3016.
-		<dt id="X0-tuia2011jstsp" class="thebibliography">
-				<span class="cmbx-10">2011</span>
-		</dt>
 				<!--l. 66-->
 				<p class="noindent">D. Tuia, M. Volpi, L. Copa, M. Kanevski, and J.
 						Mu�oz-Mar�. &#8220;A survey of active leaning
@@ -272,36 +191,24 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 <h3 class="sectionHead"><a id="x1-2000"></a>Proceedings (peer reviewed)</h3>
 <!--l. 71-->
 <p class="noindent">
-		<dt id="X0-stalder2022cvpr" class="thebibliography">
-				<span class="cmbx-10">2022</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">S. Stalder, N. Perraudin, R. Achanta, F. Pérez-Cruz, and <span
 								class="cmbx-10">M. Volpi</span>. &#8220;What You See is What You
 						Classify: Black Box Attributions&#8221;. In: <span class="cmti-10">Submitted to IEEE/CVF
 								Conference on Computer Vision</span>
 						<span class="cmti-10">and Pattern Recognition</span>. 2022.
-		<dt id="X0-perez2021egu" class="thebibliography">
-				<span class="cmbx-10">2021</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">C. Pérez-Guillén, M. Hendrick, F. Techel, A. van Herwijnen, <span
 								class="cmbx-10">M. Volpi</span>, T. Olevski, F. Pérez-Cruz,
 						G. Obozinski, and J. Schweizer. &#8220;Data-driven automatic predictions of avalanche danger in Switzerland&#8221;. In: <span class="cmti-10">EGU General Assembly Conference
 								Abstracts</span>. 2021, EGU21&#8211;6154.
 
-		<dt id="X0-landwehr2020dsclim" class="thebibliography">
-				<span class="cmbx-10">2020</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">S. Landwehr, M. Volpi, F. Pérez-Cruz, and J.
 						Schmale. &#8220;Sparse Principal Component Analysis as
 						a tool for the exploration of heterogeneous datasets from multidisciplinary field
 						experiments&#8221;. In:
 						<span class="cmti-10">Data Science in Climate and Climate Impact Research</span>. 2020.
-		<dt id="X0-landwehr2019solas" class="thebibliography">
-				<span class="cmbx-10">2019</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">S. Landwehr, R. Modini, J. Schmale, M. Volpi,
 						A. Toffoli, I. Thurnherr, F. Aemisegger,
@@ -310,124 +217,76 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 						spectra measurements from the Antarctic Circumnavigation Experiment&#8221;. In: <span
 								class="cmti-10">SOLAS open science</span>
 						<span class="cmti-10">conference</span>. 2019.
-		<dt id="X0-acheson2017gir" class="thebibliography">
-				<span class="cmbx-10">2017</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">E. Acheson, J. Villette, M. Volpi, and R. S.
 						Purves. &#8220;Gazetteer Matching for Natural Features in
 						Switzerland&#8221;. In: <span class="cmti-10">Proceedings of the 11th Workshop on
 								Geographic Information Retrieval</span>. 2017.
-		<dt id="X0-kellenberger2017igarss" class="thebibliography">
-				<span class="cmbx-10">2017</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">B. Kellenberger, M. Volpi, and D. Tuia.
 						&#8220;Fast animal detection in uav images using convolutional
 						neural networks&#8221;. In: <span class="cmti-10">IEEE International Geosciences and
 								Remote Sensing Symposium IGARSS</span>
 						<span class="cmti-10">2017, Fort Worth, (USA)</span>. 2017.
-		<dt id="X0-kellenberger2017jurse" class="thebibliography">
-				<span class="cmbx-10">2017</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">B. Kellenberger, M. Volpi, and D. Tuia.
 						&#8220;Learning class- and location-specific priors for urban
 						semantic labeling with CNNs&#8221;. In: <span class="cmti-10">Joint Urban Remote Sensing
 								Event JURSE 2017, Dubai (UAE)</span>.
 						2017.
-		<dt id="X0-marcos2017iccv" class="thebibliography">
-				<span class="cmbx-10">2017</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">D. Marcos, M. Volpi, N. Komodakis, and D. Tuia.
 						&#8220;Rotation equivariant vector field networks&#8221;.
 						In: <span class="cmti-10">ICCV International Conference on Computer Vision, Venice
 								(I)</span>. 2017.
-		<dt id="X0-srivastava2017igarss" class="thebibliography">
-				<span class="cmbx-10">2017</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">S. Srivastava, M. Volpi, and D. Tuia.
 						&#8220;Joint height estimation and semantic labeling of monocular
 						aerial images with CNNs&#8221;. In: <span class="cmti-10">IEEE International Geosciences
 								and Remote Sensing Symposium</span>
 						<span class="cmti-10">IGARSS 2017, Fort Worth, (USA)</span>. 2017.
-		<dt id="X0-marcos2016icpr" class="thebibliography">
-				<span class="cmbx-10">2016</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">D. Marcos, M. Volpi, and D. Tuia.
 						&#8220;Learning rotation invariant convolutional filters for texture
 						classification&#8221;. In: <span class="cmti-10">In 23nd International Conference on
 								Pattern Recognition ICPR 2016, Cancun</span>
 						<span class="cmti-10">(MEX)</span>. 2016.
-		<dt id="X0-marcos2016igarss" class="thebibliography">
-				<span class="cmbx-10">2016</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">D. Marcos, M. Volpi, and D. Tuia.
 						&#8220;Solving structured segmentation of aerial images as puzzles&#8221;.
 						In: <span class="cmti-10">IEEE International Geosciences and Remote Sensing Symposium
 								IGARSS 2016, Beijing (CHN)</span>.
 						2016.
-		<dt id="X0-tuia2016igarss" class="thebibliography">
-				<span class="cmbx-10">2016</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">D. Tuia, M. Volpi, and G. Moser. &#8220;Getting
 						pixels and regions to agree with conditional random
 						fields&#8221;. In: <span class="cmti-10">IEEE International Geosciences and Remote
 								Sensing Symposium IGARSS 2016, Beijing</span>
-						<span class="cmti-10">(CHN)</span>. 2016.
-		<dt id="X0-volpi2016igarss" class="thebibliography">
-				<span class="cmbx-10">2016</span>
-		</dt>
+						<span class="cmti-10">(CHN)</span>. 2016./dt>
 
-				<!--l. 71-->
-				<p class="noindent"><span class="cmbx-10">M. Volpi </span>and D. Tuia. &#8220;Semantic labeling
+				
 						of aerial images by learning class-specific object
 						proposals&#8221;. In: <span class="cmti-10">IEEE International Geosciences and Remote
 								Sensing Symposium IGARSS 2016,</span>
 						<span class="cmti-10">Beijing (CHN)</span>. 2016.
-		<dt id="X0-volpi2015cvprw" class="thebibliography">
-				<span class="cmbx-10">2015</span>
-		</dt>
-				<!--l. 71-->
-				<p class="noindent"><span class="cmbx-10">M. Volpi </span>and V. Ferrari. &#8220;Semantic
+				
 						segmentation of urban scenes by learning local class
-						interactions&#8221;. In: <span class="cmti-10">IEEE/CVF CVPRW 2015 Earthvision (2015),
-								Boston (USA)</span>. <span class="cmbx-10">Best Paper</span>
-						<span class="cmbx-10">Award</span>. 2015.
-		<dt id="X0-volpi2015jurse" class="thebibliography">
-				<span class="cmbx-10">2015</span>
-		</dt>
-				<!--l. 71-->
-				<p class="noindent"><span class="cmbx-10">M. Volpi </span>and V. Ferrari. &#8220;Structured
+						interactions&#8221;. In: <span class="cmti-10">IEEE/CVF CVPRW 2015 Earthv
+				
 						Prediction for urban scene semantic segmentation with
 						geographic context&#8221;. In: <span class="cmti-10">Joint Urban Remote Sensing Event
 								JURSE 2015, Lausanne (CH)</span>. 2015.
-		<dt id="X0-tuia2014icpr" class="thebibliography">
-				<span class="cmbx-10">2014</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">D. Tuia, M. Volpi, and G. Camps-Valls.
 						&#8220;Unsupervised alignment of image manifolds with
 						centrality measures&#8221;. In: <span class="cmti-10">In 22nd International Conference
 								on Pattern Recognition ICPR 2014,</span>
 						<span class="cmti-10">Stockholm (SWE)</span>. 2014.
-		<dt id="X0-volpi2014whispers" class="thebibliography">
-				<span class="cmbx-10">2014</span>
-		</dt>
-				<!--l. 71-->
-				<p class="noindent"><span class="cmbx-10">M. Volpi </span>and D. Tuia. &#8220;Spatially aware
+				
 						supervised nonlinear dimensionality reduction for
 						hyperspectral data&#8221;. In: <span class="cmti-10">In 6th Workshop in Hyperspectral
 								Image and Signal Processing: Evolution</span>
 						<span class="cmti-10">in Remote Sensing WHISPERS 2015, Lausanne (CH)</span>. 2014.
-		<dt id="X0-matasci2013icpram" class="thebibliography">
-				<span class="cmbx-10">2013</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">G. Matasci, L. Bruzzone, M. Volpi, D. Tuia, and
 						M. Kanevski. &#8220;Investigating feature extraction for
@@ -435,36 +294,24 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 								class="cmti-10">International Conference on Pattern</span>
 						<span class="cmti-10">Recognition Application and Methods ICPRAM 2013, Barcelona
 								(SP)</span>. 2013.
-		<dt id="X0-trolliet2013jurse" class="thebibliography">
-				<span class="cmbx-10">2013</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">M. Trolliet, D. Tuia, and M. Volpi.
 						&#8220;Classification of urban multi-angular image sequences by
 						aligning their manifolds&#8221;. In: <span class="cmti-10">Joint Urban Remote Sensing
 								Event JURSE 2013, Sao Paolo (BRA)</span>.
 						2013.
-		<dt id="X0-tuia2013igarss" class="thebibliography">
-				<span class="cmbx-10">2013</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">D. Tuia, M. Trolliet, and M. Volpi.
 						&#8220;Multisensor alignment of image manifolds&#8221;. In: <span
 								class="cmti-10">IEEE</span>
 						<span class="cmti-10">International Geosciences and Remote Sensing Symposium IGARSS
 								2013, Melbourne (AUS)</span>. 2013.
-		<dt id="X0-tuia2013bigarss" class="thebibliography">
-				<span class="cmbx-10">2013</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">D. Tuia, M. Volpi, M. Dalla&#x00A0;Mura, A.
 						Rakotomamonjy, and R. Flamary. &#8220;Create the relevant
 						spatial filterbank in the hyperspectral jungle&#8221;. In: <span class="cmti-10">IEEE
 								International Geosciences and Remote</span>
 						<span class="cmti-10">Sensing Symposium IGARSS 2013, Melbourne (AUS)</span>. 2013.
-		<dt id="X0-volpi2013igarss" class="thebibliography">
-				<span class="cmbx-10">2013</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">M. Volpi, F. de&#x00A0;Morsier, G. Camps-Valls,
 						M. Kanevski, and D. Tuia. &#8220;Multi-sensor change
@@ -472,9 +319,6 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 								class="cmti-10">IEEE International Geosciences and</span>
 						<span class="cmti-10">Remote Sensing Symposium IGARSS 2013, Melbourne (AUS)</span>.
 						2013.
-		<dt id="X0-volpi2013esann" class="thebibliography">
-				<span class="cmbx-10">2013</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">M. Volpi, G. Matasci, M. Kanevski, and D. Tuia.
 						&#8220;Multi-view feature extraction for hyperspectral
@@ -482,72 +326,48 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 								Neural Networks, Computational</span>
 						<span class="cmti-10">Intelligence and Machine Learning ESANN 2013, Bruges (B)</span>.
 						2013.
-		<dt id="X0-tuia2012icpr" class="thebibliography">
-				<span class="cmbx-10">2012</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">D. Tuia, M. Volpi, M. Dalla&#x00A0;Mura, A.
 						Rakotomamonjy, and R. Flamary. &#8220;Discovering relevant
 						spatial filterbanks for VHR image classification&#8221;. In: <span class="cmti-10">In
 								21st International Conference on Pattern</span>
 						<span class="cmti-10">Recognition ICPR 2012, 2012, Tsukuba (JAP)</span>. 2012.
-		<dt id="X0-volpi2012igarss" class="thebibliography">
-				<span class="cmbx-10">2012</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">M. Volpi, G. Matasci, D. Tuia, and M. Kanevski.
 						&#8220;Enahnced change detection using nonlinear
 						feature extraction&#8221;. In: <span class="cmti-10">IEEE International Geosciences and
 								Remote Sensing Symposium IGARSS</span>
 						<span class="cmti-10">2012, Munich (D)</span>. 2012, pp. 6757&#8211;6760.
-		<dt id="X0-matasci2011spie" class="thebibliography">
-				<span class="cmbx-10">2011</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">G. Matasci, M. Volpi, D. Tuia, and M. Kanevski.
 						&#8220;Transfer component analysis for domain
 						adaptation in image classification&#8221;. In: <span class="cmti-10">SPIE Image and
 								Signal Processing for Remote Sensing XVII,</span>
 						<span class="cmti-10">Prague (CZ)</span>. Ed. by L. Bruzzone. Vol.&#x00A0;8180. 2011.
-		<dt id="X0-volpi2011igarss" class="thebibliography">
-				<span class="cmbx-10">2011</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">M. Volpi, D. Tuia, G. Camps-Valls, and M.
 						Kanevski. &#8220;Unsupervised change detection in the
 						feature space using kernels&#8221;. In: <span class="cmti-10">IEEE International
 								Geosciences and Remote Sensing Symposium</span>
 						<span class="cmti-10">IGARSS 2011, Vancouver (CAN)</span>. 2011, pp. 106&#8211;109.
-		<dt id="X0-copa2010spie" class="thebibliography">
-				<span class="cmbx-10">2010</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">L. Copa, D. Tuia, M. Volpi, and M. Kanevski.
 						&#8220;Unbiased query-by-bagging active learning for VHR
 						image classification&#8221;. In: <span class="cmti-10">SPIE Image and Signal Processing
 								for Remote Sensing XVI, Toulouse</span>
 						<span class="cmti-10">(F)</span>. Ed. by L. Bruzzone. Vol.&#x00A0;7830(1). 2010.
-		<dt id="X0-volpi2010spie" class="thebibliography">
-				<span class="cmbx-10">2010</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">M. Volpi, D. Tuia, G. Camps-Valls, and M.
 						Kanevski. &#8220;Unsupervised change detection by kernel
 						clustering&#8221;. In: <span class="cmti-10">SPIE Image and Signal Processing for Remote
 								Sensing XVI, Toulouse (F)</span>. Ed. by
 						L. Bruzzone. Vol.&#x00A0;7830(1). 2010.
-		<dt id="X0-volpi2010igarss" class="thebibliography">
-				<span class="cmbx-10">2010</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">M. Volpi, D. Tuia, and M. Kanevski.
 						&#8220;Advanced active sampling for remote sensing image
 						classification&#8221;. In: <span class="cmti-10">IEEE International Geosciences and
 								Remote Sensing Symposium IGARSS 2010,</span>
 						<span class="cmti-10">Honolulu (USA)</span>. 2010, pp. 1414&#8211;1417.
-		<dt id="X0-volpi2009mlsp" class="thebibliography">
-				<span class="cmbx-10">2009</span>
-		</dt>
 				<!--l. 71-->
 				<p class="noindent">M. Volpi, D. Tuia, M. Kanevski, F. Bovolo, and
 						L. Bruzzone. &#8220;Supervised change detection in
@@ -560,9 +380,6 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 <h3 class="sectionHead"><a id="x1-3000"></a>Various (not peer reviewed)</h3>
 <!--l. 76-->
 <p class="noindent">
-		<dt id="X0-cere2012egu" class="thebibliography">
-				<span class="cmbx-10">2012</span>
-		</dt>
 				<!--l. 76-->
 				<p class="noindent">R. Cere, M. Conedera, G. Matasci, M. Kanevski, M. Tonini, C. Vega, and <span
 								class="cmbx-10">M. Volpi</span>.
@@ -571,36 +388,22 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 						forest fires in southern Swiss Alps&#8221;. In: <span class="cmti-10">European
 								Geosciences Union General Assembly EGU 2012,</span>
 						<span class="cmti-10">Vienna (AUT)</span>. 2012.
-		<dt id="X0-volpi2010cegu" class="thebibliography">
-				<span class="cmbx-10">2012</span>
-		</dt>
 				<!--l. 76-->
 				<p class="noindent">M. Volpi, G. P. Petropoulos, and M. Kanevski.
 						&#8220;Flooded area cartography with kernel-based
 						classifiers and Landsat TM imagery&#8221;. In: <span class="cmti-10">European
 								Geosciences Union General Assembly EGU</span>
 						<span class="cmti-10">2012, Vienna (AUT)</span>. 2012.
-		<dt id="X0-volpi2011egu" class="thebibliography">
-				<span class="cmbx-10">2011</span>
-		</dt>
-				<!--l. 76-->
-				<p class="noindent"><span class="cmbx-10">M. Volpi </span>and M. Kanevski. &#8220;Kernel-based
+				
 						methods for change detection in remote sensing optical
 						images (sollicited talk)&#8221;. In: <span class="cmti-10">European Geosciences Union
 								General Assembly EGU 2011, Vienna</span>
 						<span class="cmti-10">(AUT)</span>. 2011.
-		<dt id="X0-charriere2010egu" class="thebibliography">
-				<span class="cmbx-10">2010</span>
-		</dt>
-				<!--l. 76-->
-				<p class="noindent">M. Charri�re, A. Pedrazzini, M. G�ell Pons, <span class="cmbx-10">M.
+				
 								Volpi</span>, M. Jaboyedoff, C. Froese, and M. Kanevski.
 						&#8220;The characterization of the Frank Slide deposit&#8221;. In: <span
 								class="cmti-10">European Geosciences Union General</span>
 						<span class="cmti-10">Assembly EGU 2010, Vienna (AUT)</span>. 2010.
-		<dt id="X0-humair2010cangeotech" class="thebibliography">
-				<span class="cmbx-10">2010</span>
-		</dt>
 				<!--l. 76-->
 				<p class="noindent">F. Humair, M. Charri�re, A. Pedrazzini, M. G�ell Pons, <span
 								class="cmbx-10">M. Volpi</span>, L. Foresti, M. Jaboyedoff, J.L.
@@ -609,27 +412,18 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 						processes of propagation&#8221;. In: <span class="cmti-10">International Canadian
 								Geotechnical Conference of the Canadian</span>
 						<span class="cmti-10">Geotechnical Society 2010, Calgary (CAN)</span>. 2010.
-		<dt id="X0-kanevski2010egu" class="thebibliography">
-				<span class="cmbx-10">2010</span>
-		</dt>
 				<!--l. 76-->
 				<p class="noindent">M. Kanevski, M. Volpi, and L. Copa.
 						&#8220;Environmental monitoring networks optimization using
 						advanced active learning algorithms&#8221;. In: <span class="cmti-10">European
 								Geosciences Union General Assembly EGU</span>
 						<span class="cmti-10">2010, Vienna (AUT)</span>. 2010.
-		<dt id="X0-volpi2010begu" class="thebibliography">
-				<span class="cmbx-10">2010</span>
-		</dt>
 				<!--l. 76-->
 				<p class="noindent">M. Volpi, D. Tuia, and M. Kanevski.
 						&#8220;Supervised change detection in VHR images using support
 						vector machines and contextual information&#8221;. In: <span class="cmti-10">European
 								Geosciences Union General Assembly</span>
 						<span class="cmti-10">EGU 2010, Vienna (AUT)</span>. 2010.
-		<dt id="X0-volpi2010egu" class="thebibliography">
-				<span class="cmbx-10">2010</span>
-		</dt>
 				<!--l. 76-->
 				<p class="noindent">M. Volpi, D. Tuia, and M. Kanevski.
 						&#8220;Unsupervised binary change detection in VHR images using
@@ -640,10 +434,7 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 <p class="noindent">
 <h3 class="sectionHead"><a id="x1-4000"></a>Various (not peer reviewed)</h3>
 <!--l. 81-->
-<p class="noindent">
-		<dt id="X0-volpi2020datadistcoast" class="thebibliography">
-				<span class="cmbx-10">2020</span>
-		</dt>
+<p class="noindent">/dt>
 
 				<!--l. 81-->
 				<p class="noindent">M. Volpi, S. Landwehr, J. Thomas, and J.
@@ -653,9 +444,6 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 						<span class="cmti-10">Antarctic Circumnavigation Expedition (ACE) during the austral
 								summer of 2016/2017</span>.
 						http://dx.doi.org/10.5281/zenodo.3832045. 2020.
-		<dt id="X0-volpi2020dataeratrack" class="thebibliography">
-				<span class="cmbx-10">2020</span>
-		</dt>
 				<!--l. 81-->
 				<p class="noindent">M. Volpi, S. Landwehr, J. Thomas, and J.
 						Schmale. <span class="cmti-10">ERA-5 reanalysis results interpolated onto the</span>
@@ -663,69 +451,39 @@ You can also find my articles on <u><a href="https://scholar.google.ch/citations
 								Expedition (ACE) during the</span>
 						<span class="cmti-10">austral summer of 2016/2017</span>.
 						http://dx.doi.org/10.5281/zenodo.3831980. 2020.
-		<dt id="X0-thomas2019acezenodo" class="thebibliography">
-				<span class="cmbx-10">2019</span>
-		</dt>
 				<!--l. 81-->
 				<p class="noindent">J. Thomas, S. Landwehr, M. Volpi, and J.
 						Schmale. <span class="cmti-10">ACE-DATA: Antarctic Circumnavigation</span>
 						<span class="cmti-10">Expedition &#8211; Delivering Added value To Antarctica (Version
 								1.0)</span>. <br class="newline" />http://doi.org/10.5281/zenodo.2587954. 2019.
-		<dt id="X0-volpi2019amld" class="thebibliography">
-				<span class="cmbx-10">2019</span>
-		</dt>
 				<!--l. 81-->
 				<p class="noindent">M. Volpi. <span class="cmti-10">Semantic
 								interpretation of optical remote sensing data by computer vision and
 								machine</span>
 						<span class="cmti-10">learning</span>. Keynote talk at Applied Machine Learning Days
 						(AMLD), Lausanne (CH). 2019.
-		<dt id="X0-volpi2014talkuzh" class="thebibliography">
-				<span class="cmbx-10">2014</span>
-		</dt>
-				<!--l. 81-->
-				<p class="noindent"><span class="cmbx-10">M. Volpi </span>and V. Ferrari. <span
-								class="cmti-10">Semantic Segmentation of remote sensing urban scene by
+				
 								incorporating</span>
 						<span class="cmti-10">the gegeographic context</span>. Invited Seminar, University of
 						Zurich (CH). 2014.
-		<dt id="X0-volpi2014talkipab" class="thebibliography">
-				<span class="cmbx-10">2014</span>
-		</dt>
-				<!--l. 81-->
-				<p class="noindent"><span class="cmbx-10">M. Volpi </span>and V. Ferrari. <span
-								class="cmti-10">Semantic segmentation of remotely sensed urban scenes</span>.
+				s</span>.
 						IPAB Workshop
 						@ University of Edinburgh (UK). 2014.
-		<dt id="X0-volpi2012talkmlepfl" class="thebibliography">
-				<span class="cmbx-10">2012</span>
-		</dt>
 				<!--l. 81-->
 				<p class="noindent">M. Volpi, F. de Morsier, M. Kanevski, G.
 						Matasci, J. Stamenkovic, J.-P. Thiran, and D. Tuia.
 						<span class="cmti-10">Kernel-based automatic change detection in remote sensing optical
 								images</span>. Machine Learning
 						Workshop @ EPFL, Lausanne (CH). 2012.
-		<dt id="X0-volpi2010talksfgm" class="thebibliography">
-				<span class="cmbx-10">2010</span>
-		</dt>
-				<!--l. 81-->
-				<p class="noindent"><span class="cmbx-10">M. Volpi </span>and M. Kanevski. <span
-								class="cmti-10">Kernel-based machine learning algorithms for change detection
+				 change detection
 								in</span>
 						<span class="cmti-10">remote sensing images</span>. Swiss French Geomatics Meeting,
 						University of Geneva (CH). 2010.
-		<dt id="X0-volpi2010talkncg" class="thebibliography">
-				<span class="cmbx-10">2010</span>
-		</dt>
 				<!--l. 81-->
 				<p class="noindent">M. Volpi, D. Tuia, G. Camps-Valls, and M.
 						Kanevski. <span class="cmti-10">Unsupervised change detection by kernel</span>
 						<span class="cmti-10">clustering</span>. Invited Seminar, National Center for
 						Geocomputation (NCG), Maynooth (IRL). 2010.
-		<dt id="X0-volpi2010talks4" class="thebibliography">
-				<span class="cmbx-10">2010</span>
-		</dt>
 				<!--l. 81-->
 				<p class="noindent">M. Volpi, D. Tuia, and M. Kanevski. <span
 								class="cmti-10">Active learning of remote sensing images</span>. S4 Workshop,
