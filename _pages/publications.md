@@ -8,7 +8,7 @@ author_profile: true
 
 <html>
 
-<head>
+<!-- <head>
   <title></title>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
   <meta name="generator" content="TeX4ht (http://www.tug.org/tex4ht/)">
@@ -16,7 +16,7 @@ author_profile: true
   <!-- html -->
   <meta name="src" content="plain_publication_list.tex">
   <link rel="stylesheet" type="text/css" href="plain_publication_list.css">
-</head>
+</head> -->
 
 <body>
   <h3 class="sectionHead"><a id="x1-1000"></a>Journal</h3>
