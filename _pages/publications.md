@@ -4,7 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+<!-- <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 
 <head>
@@ -12,10 +14,10 @@ author_profile: true
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
         <meta name="generator" content="TeX4ht (http://www.tug.org/tex4ht/)">
         <meta name="originator" content="TeX4ht (http://www.tug.org/tex4ht/)">
-        <!-- html -->
-        <meta name="src" content="plain_publication_list.tex">
+        html
+        <!-- <meta name="src" content="plain_publication_list.tex">
         <link rel="stylesheet" type="text/css" href="plain_publication_list.css">
-</head>
+</head> -->
 
 <body>
         <h3 class="sectionHead"><a id="x1-1000"></a>Journal</h3>
@@ -127,7 +129,6 @@ author_profile: true
                                 Conditional Random Fields&#8221;. In: <span class="cmti-10">IEEE Transactions on
                                         Geoscience and Remote Sensing </span>56.6
                                 (2018), pp. 3277&#8211;3289.
-
                 </dd>
                 <dt id="X0-volpi2018isprs" class="thebibliography">
                         <span class="cmbx-10">2018</span>
@@ -244,7 +245,6 @@ author_profile: true
                         <span class="cmbx-10">2013</span>
                 </dt>
                 <dd id="bib-20" class="thebibliography">
-
                         <!--l. 66-->
                         <p class="noindent">I. M. Penna, M.-H. Derron, <span class="cmbx-10">M. Volpi</span>, and M.
                                 Jaboyedoff. &#8220;Analysis of past and future dam
@@ -349,7 +349,6 @@ author_profile: true
                                 danger in
                                 Switzerland&#8221;. In: <span class="cmti-10">EGU General Assembly Conference
                                         Abstracts</span>. 2021, EGU21&#8211;6154.
-
                 </dd>
                 <dt id="X0-landwehr2020dsclim" class="thebibliography">
                         <span class="cmbx-10">2020</span>
@@ -465,7 +464,6 @@ author_profile: true
                         <span class="cmbx-10">2016</span>
                 </dt>
                 <dd id="bib-39" class="thebibliography">
-
                         <!--l. 71-->
                         <p class="noindent"><span class="cmbx-10">M. Volpi </span>and D. Tuia. &#8220;Semantic labeling
                                 of aerial images by learning class-specific object
@@ -584,7 +582,6 @@ author_profile: true
                                         Neural Networks, Computational</span>
                                 <span class="cmti-10">Intelligence and Machine Learning ESANN 2013, Bruges (B)</span>.
                                 2013.
-
                 </dd>
                 <dt id="X0-tuia2012icpr" class="thebibliography">
                         <span class="cmbx-10">2012</span>
@@ -686,7 +683,6 @@ author_profile: true
                         <span class="cmbx-10">2012</span>
                 </dt>
                 <dd id="bib-58" class="thebibliography">
-
                         <!--l. 76-->
                         <p class="noindent">R. Cere, M. Conedera, G. Matasci, M. Kanevski, M. Tonini, C. Vega, and <span
                                         class="cmbx-10">M. Volpi</span>.
@@ -786,7 +782,6 @@ author_profile: true
                         <span class="cmbx-10">2020</span>
                 </dt>
                 <dd id="bib-66" class="thebibliography">
-
                         <!--l. 81-->
                         <p class="noindent"><span class="cmbx-10">M. Volpi</span>, S. Landwehr, J. Thomas, and J.
                                 Schmale. <span class="cmti-10">Distance to the nearest land/coastline</span>
@@ -895,4 +890,4 @@ author_profile: true
 
 </body>
 
-</html>
+<!-- </html> -->
