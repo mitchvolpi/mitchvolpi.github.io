@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 <!-- <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -887,7 +896,6 @@ author_profile: true
                                 Spatio-Temporal Data Analysis, Cork (IRL). 2010.
                 </dd>
         </dl>
-
 </body>
 
 <!-- </html> -->
