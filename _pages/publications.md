@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
 <!-- 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
@@ -17,15 +18,15 @@ author_profile: true
 
 
 <html>
-  <head>
-    <title>Publica \tion List</title>
+  <!-- <head>
+    <title>Publication List</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <meta name="generator" content="TeX4ht (http://www.tug.org/tex4ht/)">
     <meta name="originator" content="TeX4ht (http://www.tug.org/tex4ht/)">
     <!-- html -->
     <meta name="src" content="plain_publication_list.tex"> 
     <link rel="stylesheet" type="text/css" href="plain_publication_list.css">
-  </head>
+  </head> -->
 
   <body>
     <h3 class="sectionHead"><a id="x1-1000"></a>Journal</h3>
