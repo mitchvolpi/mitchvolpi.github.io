@@ -15,10 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-TEST TEST TEST
-
-{% include plain_publication_list.html %}
-
+TEST TEST TEST LIST 
 <!-- 
 <h3 class="sectionHead"><a id="x1-1000"></a>Journal</h3>
 <dt id="X0-perez2022cryo" class="thebibliography">
