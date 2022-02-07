@@ -11,9 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 <h3 class="sectionHead"><a id="x1-1000"></a>Journal</h3>
 <!--l. 66-->
@@ -53,6 +53,3 @@ author_profile: true
                 features&#8221;. In: <span class="cmti-10">International Journal of Geographical
                         Information Science </span>34.4 (2020), pp. 708&#8211;734.
 </dd>
-<dt id="X0-landwehr2020seastatepreprint" class="thebibliography">
-        <span class="cmbx-10">2020</span>
-</dt>
