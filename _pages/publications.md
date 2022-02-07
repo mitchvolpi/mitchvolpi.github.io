@@ -4,7 +4,7 @@ title: "Publication List"
 permalink: /publications/
 author_profile: true
 ---
-
+<!-- 
 <h3 class="sectionHead"><a id="x1-1000"></a>Journal</h3>
 <dt id="X0-perez2022cryo" class="thebibliography">
         2022
@@ -23,7 +23,7 @@ author_profile: true
 </dt>
 <dd id="bib-3" class="thebibliography">
         E. Acheson, M. Volpi, and R.S. Purves.; Machine learning for cross-gazetteer matching of natural features. In: International Journal of Geographical Information Science 34.4 (2020), pp. 708-734.
-</dd>
+</dd> -->
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
