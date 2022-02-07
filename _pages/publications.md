@@ -15,9 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+
 <html>
   <head>
-    <title></title>
+    <title>Publication List</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <meta name="generator" content="TeX4ht (http://www.tug.org/tex4ht/)">
     <meta name="originator" content="TeX4ht (http://www.tug.org/tex4ht/)">
