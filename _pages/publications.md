@@ -9,7 +9,6 @@ author_profile: true
   <h3 class="sectionHead"><a id="x1-1000"></a>Journal</h3>
   <!--l. 66-->
   <p class="noindent">
-  <dl class="thebibliography">
     <dt id="X0-perez2022cryo" class="thebibliography">
       <span class="cmbx-10">2022</span>
     </dt>
@@ -290,13 +289,11 @@ author_profile: true
           Selected Topics</span>
         <span class="cmti-10">in Signal Processing </span>5.3 (2011), pp. 606&#8211;617.
     </dd>
-  </dl>
   <!--l. 71-->
   <p class="noindent">
   <h3 class="sectionHead"><a id="x1-2000"></a>Proceedings (peer reviewed)</h3>
   <!--l. 71-->
   <p class="noindent">
-  <dl class="thebibliography">
     <dt id="X0-stalder2022cvpr" class="thebibliography">
       <span class="cmbx-10">2022</span>
     </dt>
@@ -633,13 +630,11 @@ author_profile: true
           Learning for</span>
         <span class="cmti-10">Signal Processing MLSP 2009, Grenoble (F)</span>. 2009, pp. 1&#8211;6.
     </dd>
-  </dl>
   <!--l. 76-->
   <p class="noindent">
   <h3 class="sectionHead"><a id="x1-3000"></a>Various (not peer reviewed)</h3>
   <!--l. 76-->
   <p class="noindent">
-  <dl class="thebibliography">
     <dt id="X0-cere2012egu" class="thebibliography">
       <span class="cmbx-10">2012</span>
     </dt>
@@ -730,13 +725,11 @@ author_profile: true
           EGU 2010,</span>
         <span class="cmti-10">Vienna (AUT)</span>. 2010.
     </dd>
-  </dl>
   <!--l. 81-->
   <p class="noindent">
   <h3 class="sectionHead"><a id="x1-4000"></a>Various (not peer reviewed)</h3>
   <!--l. 81-->
   <p class="noindent">
-  <dl class="thebibliography">
     <dt id="X0-volpi2020datadistcoast" class="thebibliography">
       <span class="cmbx-10">2020</span>
     </dt>
@@ -838,5 +831,4 @@ author_profile: true
           learning of remote sensing images</span>. S4 Workshop,
         Spatio-Temporal Data Analysis, Cork (IRL). 2010.
     </dd>
-  </dl>
 </body>
