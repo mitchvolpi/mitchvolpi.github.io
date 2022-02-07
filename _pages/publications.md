@@ -4,12 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<!-- 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% endif %} -->
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
@@ -17,8 +17,6 @@ author_profile: true
 
 <h3 class="sectionHead"><a id="x1-1000"></a>Journal</h3>
 <!--l. 66-->
-<p class="noindent">
-<dl class="thebibliography">
 <dt id="X0-perez2022cryo" class="thebibliography">
         <span class="cmbx-10">2022</span>
 </dt>
