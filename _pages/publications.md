@@ -5,17 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-<html>
-<!-- <head>
-  <title></title>
-  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-  <meta name="generator" content="TeX4ht (http://www.tug.org/tex4ht/)">
-  <meta name="originator" content="TeX4ht (http://www.tug.org/tex4ht/)">
-  <!-- html -->
-  <!-- <meta name="src" content="plain_publication_list.tex"> -->
-  <!-- <link rel="stylesheet" type="text/css" href="plain_publication_list.css"> -->
-<!-- </head> -->
 <body>
   <h3 class="sectionHead"><a id="x1-1000"></a>Journal</h3>
   <!--l. 66-->
@@ -851,4 +840,3 @@ author_profile: true
     </dd>
   </dl>
 </body>
-</html>
