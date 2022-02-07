@@ -32,7 +32,6 @@ author_profile: true
     <h3 class="sectionHead"><a id="x1-1000"></a>Journal</h3>
     <!--l. 66-->
     <p class="noindent">
-    <dl class="thebibliography">
       <dt id="X0-perez2022cryo" class="thebibliography">
         <span class="cmbx-10">2022</span>
       </dt>
@@ -261,13 +260,11 @@ author_profile: true
           algorithms for supervised remote sensing image classification&#8221;. In: <span class="cmti-10">IEEE Journal of
             Selected Topics</span>
           <span class="cmti-10">in Signal Processing </span>5.3 (2011), pp. 606&#8211;617.
-    </dl>
     <!--l. 71-->
     <p class="noindent">
     <h3 class="sectionHead"><a id="x1-2000"></a>Proceedings (peer reviewed)</h3>
     <!--l. 71-->
     <p class="noindent">
-    <dl class="thebibliography">
       <dt id="X0-stalder2022cvpr" class="thebibliography">
         <span class="cmbx-10">2022</span>
       </dt>
@@ -542,13 +539,11 @@ author_profile: true
           VHR images: a comparative analysis&#8221;. In: <span class="cmti-10">IEEE International Workshop on Machine
             Learning for</span>
           <span class="cmti-10">Signal Processing MLSP 2009, Grenoble (F)</span>. 2009, pp. 1&#8211;6.
-    </dl>
     <!--l. 76-->
     <p class="noindent">
     <h3 class="sectionHead"><a id="x1-3000"></a>Various (not peer reviewed)</h3>
     <!--l. 76-->
     <p class="noindent">
-    <dl class="thebibliography">
       <dt id="X0-cere2012egu" class="thebibliography">
         <span class="cmbx-10">2012</span>
       </dt>
@@ -623,13 +618,11 @@ author_profile: true
           a kernelized clustering algorithm&#8221;. In: <span class="cmti-10">European Geosciences Union General Assembly
             EGU 2010,</span>
           <span class="cmti-10">Vienna (AUT)</span>. 2010.
-    </dl>
     <!--l. 81-->
     <p class="noindent">
     <h3 class="sectionHead"><a id="x1-4000"></a>Various (not peer reviewed)</h3>
     <!--l. 81-->
     <p class="noindent">
-    <dl class="thebibliography">
       <dt id="X0-volpi2020datadistcoast" class="thebibliography">
         <span class="cmbx-10">2020</span>
       </dt>
@@ -711,6 +704,5 @@ author_profile: true
         <p class="noindent"><span class="cmbx-10">M. Volpi</span>, D. Tuia, and M. Kanevski. <span class="cmti-10">Active
             learning of remote sensing images</span>. S4 Workshop,
           Spatio-Temporal Data Analysis, Cork (IRL). 2010.
-    </dl>
   </body>
 </html>
