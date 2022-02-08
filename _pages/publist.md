@@ -30,9 +30,9 @@ Herwijnen, T. Olevski, G. Obozinski, F. Pérez-Cruz, and J. Schweizer. "Data-dri
 
 ## 2018
 
-<li>D. Marcos, <b>M. Volpi</b>, B. Kellenberger, and D. Tuia. "Land cover mapping at very high resolution with rotation equivariant CNNs: Towards small yet accurate models". In: <i>ISPRS Journal of Photogrammetry and Remote Sensing</b> 145.A (2018), pp. 96-107. [<b><a href="https://arxiv.org/abs/1803.06253" target="_blank">PDF</a></b>]</li>
+<li>D. Marcos, <b>M. Volpi</b>, B. Kellenberger, and D. Tuia. "Land cover mapping at very high resolution with rotation equivariant CNNs: Towards small yet accurate models". In: <i>ISPRS Journal of Photogrammetry and Remote Sensing</i> 145.A (2018), pp. 96-107. [<b><a href="https://arxiv.org/abs/1803.06253" target="_blank">PDF</a></b>]</li>
 
-<li>G. Milani, <b>M. Volpi</b>, D. Tonolla, M. Doering, C. Robinson, M. Kneubühler, and M. Schaepman "Robust Quantification of Riverine Land Cover Dynamics by High-Resolution Remote Sensing". In: <i>Remote Sensing of Environment</si> 217 (2018), pp. 491-505. [<b><a href="https://www.zora.uzh.ch/id/eprint/156969/" target="_blank">PDF</a></b>]</li>
+<li>G. Milani, <b>M. Volpi</b>, D. Tonolla, M. Doering, C. Robinson, M. Kneubühler, and M. Schaepman "Robust Quantification of Riverine Land Cover Dynamics by High-Resolution Remote Sensing". In: <i>Remote Sensing of Environment</i> 217 (2018), pp. 491-505. [<b><a href="https://www.zora.uzh.ch/id/eprint/156969/" target="_blank">PDF</a></b>]</li>
 
 <li>D. Tuia, <b>M. Volpi</b>, and G. Moser. "Decision Fusion With Multiple Spatial Supports by Conditional Random Fields". In: <i>IEEE Transactions on Geoscience and Remote Sensing</i> 56.6 (2018), pp. 3277-3289. [<b><a href="https://arxiv.org/abs/1808.08024" target="_blank">PDF</a></b>]</li>
 
