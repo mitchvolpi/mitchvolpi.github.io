@@ -89,6 +89,7 @@ pp. 3096-3016. [<b><a href="https://ieeexplore.ieee.org/document/6155743" target
 <li>D. Tuia, <b>M. Volpi</b>, L. Copa, M. Kanevski, and J. Muñoz-Marí. "A survey of active leaning
 algorithms for supervised remote sensing image classification" <i>IEEE Journal of Selected Topics in Signal Processing</i>, 5.3 (2011), pp. 606-617. [<b><a href="https://arxiv.org/abs/2104.07784" target="_blank">PDF</a></b>]</li>
 
+&nbsp;
 # Proceedings (peer reviewed)
 
 ## 2022
@@ -106,7 +107,6 @@ algorithms for supervised remote sensing image classification" <i>IEEE Journal o
 <li>S. Landwehr, R. Modini, J. Schmale, <b>M. Volpi</b>, A. Toffoli, Thurnherr, F. Aemisegger and H. Wernli. "Investigation of sea spray source functions with remote ocean aerosol size spectra measurements from the Antarctic Circumnavigation Experiment". In: <i>SOLAS open science conference</i>, (2019). </li>
 
 ## 2017
-
 <li>D. Marcos, <b>M. Volpi</b>, N. Komodakis, and D. Tuia. "Rotation equivariant field networks". In: <i>International Conference on Computer Vision</i>, (2017).</li>
 <li>E. Acheson, J. Villette, <b>M. Volpi</b>, and R. S. Purves. "Matching for Natural Features in Switzerland". In: <i>Proceedings of the 11th Workshop on Geographic Information Retrieval</i>, (2017).</li>
 <li>B. Kellenberger, <b>M. Volpi</b>, and D. Tuia. "Fast animal detection in UAV images using convolutional neural networks". In: <i>IEEE International Geosciences and Remote Sensing Symposium</i> (2017).</li>
@@ -137,20 +137,17 @@ algorithms for supervised remote sensing image classification" <i>IEEE Journal o
 <li><b>M. Volpi</b>, G. Matasci, M. Kanevski, and D. Tuia. "Multi-view feature extraction for hyperspectral image classification". In: <i>European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning</i>, (2013).</li>
 
 ## 2012
-
 <li> D. Tuia, <b>M. Volpi</b>, M. Dalla-Mura, A. Rakotomamonjy, and R. Flamary. "Discovering relevant spatial filterbanks for VHR image classification". In: <i>International Conference on Pattern Recognition</i>, (2012).</li>
 <li><b>M. Volpi</b>, G. Matasci, D. Tuia, and M. Kanevski. "Enahnced change detection using nonlinear feature extraction". In: <i>IEEE International Geosciences and Remote Sensing Symposium</i>, (2012)</li>
 <li>R. Cere, M. Conedera, G. Matasci, M. Kanevski, M. Tonini, C. Vega-Orozco, M. Volpi. "Wildland-Urban Interface evolution mapping using multi-temporal Landsat imagery. The case of forest fires in southern Swiss Alps". In <i>EGU General Assembly Conference Abstracts</i>, (2012).</li>
 <li><b>M. Volpi</b>, G. P. Petropoulos, and M. Kanevski. "Flooded area cartography with kernel-based classifiers and Landsat TM imagery", In: <i>EGU General Assembly Conference Abstracts</i>, 2012</li>
 
 ## 2011
-
 <li><b>M. Volpi</b>, D. Tuia, G. Camps-Valls, and M. Kanevski. "Unsupervised change detection in feature space using kernels". In: <i>IEEE International Geosciences and Remote Sensing Symposium</i>, (2011)</li>
 <li>G. Matasci, <b>M. Volpi</b>, D. Tuia, and M. Kanevski. "Transfer component analysis for domain adaptation in image classification" In: <i>SPIE Image and Signal Processing for Remote Sensing</i>, (2011).</li>
 <li><b>M. Volpi</b>, and M. Kanevski. "Kernel-based methods for change detection in remote sensing optical images". In: <i>EGU General Assembly Abstractd</i> (2011), (solicited talk).</li>
 
 ## 2010
-
 <li><b>M. Volpi</b>, D. Tuia, G. Camps-Valls, and M. Kanevski. "Unsupervised change detection by kern clustering". In: <i>SPIE Image and Signal Processing for Remote Sensing</i>, (2010).</li>
 <li>L. Copa, D. Tuia, <b>M. Volpi</b>, and M. Kanevski. "Unbiased query-by-bagging active learning for image classification". In: <i>SPIE Image and Signal Processing for Remote Sensing</i>, (2010).</li>
 <li><b>M. Volpi</b>, D. Tuia, and M. Kanevski. "Advanced active learning for remote sensing image classification". In: <i>IEEE International Geosciences and Remote Sensing Symposium</i>, (2010).</li>
@@ -161,12 +158,14 @@ algorithms for supervised remote sensing image classification" <i>IEEE Journal o
 <li><b>M. Volpi</b>, D. Tuia, and M. Kanevski. "Unsupervised binary change detection in VHR images using a kernelized algorithm". In: <i>EGU General Assembly Abstracts</i>, (2010).</li>
 <li><b>M. Volpi</b>, D. Tuia, M. Kanevski, F. Bovolo, and L. Bruzzone. "Supervised change detection in VHR images: A comparative analysis". In: <i>IEEE International Workshop on Machine Learning for Signal Processing</i>, (2009).</li>
 
+&nbsp;
 # Datasets
 
 <li><b>M. Volpi</b>, S. Landwehr, J. Thomas, and J. Schmale. "Distance to the nearest land/coastline (including small subantarctic islands) for the five-minute average cruise track of the Antarctic Circumnavigation Expedition (ACE) during the austral summer of 2016/2017". v1.0, <i>Zenodo</i>, (2020) [<b><a href="http://dx.doi.org/10.5281/zenodo.3832045" target="_blank">DATASET</a></b>]</li>
 <li><b>M. Volpi</b>, S. Landwehr, J. Thomas, and J. Schmale. "ERA-5 reanalysis results interpolated onto the five-minute average cruise track of the Antarctic Circumnavigation Expedition (ACE) during the austral summer of 2016/2017".  v1.0, <i>Zenodo</i>, (2020) [<b><a href="http://dx.doi.org/10.5281/zenodo.3831980" target="_blank">DATASET</a></b>]</li>
 <li>J. Thomas, S. Landwehr, <b>M. Volpi</b>, and J. Schmale. "ACE-DATA: Antarctic Circumnavigation Expedition: Delivering Added value To Antarctica (Version 1.0)<i>, Zenodo</i>, (2020) [<b><a href="http://doi.org/10.5281/zenodo.2587954" target="_blank">DATASET</a></b>] (2020).</li>
 
+&nbsp;
 # Talks 
 
 <li><b>M. Volpi</b>. "Semantic interpretation of optical remote sensing data by computer vision and machin learning". Keynote talk at <i>Applied Machine Learning Days</i>, (2019).</li>
