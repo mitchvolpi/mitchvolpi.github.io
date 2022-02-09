@@ -145,22 +145,22 @@ algorithms for supervised remote sensing image classification" <i>IEEE Journal o
 <li><b>M. Volpi</b>, G. P. Petropoulos, and M. Kanevski. "Flooded area cartography with kernel-based classifiers and Landsat TM imagery", In: <i>EGU General Assembly Conference Abstracts</i>, 2012</li>
 
 ## 2011
+
 <li><b>M. Volpi</b>, D. Tuia, G. Camps-Valls, and M. Kanevski. "Unsupervised change detection in feature space using kernels". In: <i>IEEE International Geosciences and Remote Sensing Symposium</i>, (2011)</li>
 <li>G. Matasci, <b>M. Volpi</b>, D. Tuia, and M. Kanevski. "Transfer component analysis for domain adaptation in image classification" In: <i>SPIE Image and Signal Processing for Remote Sensing</i>, (2011).</li>
+<li><b>M. Volpi</b>, and M. Kanevski. "Kernel-based methods for change detection in remote sensing optical images". In: <i>EGU General Assembly Abstractd</i> (2011), (solicited talk).</li>
+
+## 2010
+
 <li><b>M. Volpi</b>, D. Tuia, G. Camps-Valls, and M. Kanevski. "Unsupervised change detection by kern clustering". In: <i>SPIE Image and Signal Processing for Remote Sensing</i>, (2010).</li>
 <li>L. Copa, D. Tuia, <b>M. Volpi</b>, and M. Kanevski. "Unbiased query-by-bagging active learning for image classification". In: <i>SPIE Image and Signal Processing for Remote Sensing</i>, (2010).</li>
 <li><b>M. Volpi</b>, D. Tuia, and M. Kanevski. "Advanced active learning for remote sensing image classification". In: <i>IEEE International Geosciences and Remote Sensing Symposium</i>, (2010).</li>
-<li><b>M. Volpi</b>, D. Tuia, M. Kanevski, F. Bovolo, and L. Bruzzone. "Supervised change detection in VHR images: A comparative analysis". In: <i>IEEE International Workshop on Machine Learning for Signal Processing</i>, (2009).</li>
-
-
-<li><b>M. Volpi</b>, G. P. Petropoulos, and M. Kanevski. "Flooded area cartogrpahy with kernel-based classifiers an Landsat TM imagery";. In: <i>EGU General Assempbly Abstracts</i>, (2012).</li>
-<li><b>M. Volpi</b>, and M. Kanevski. "Kernel-based methods for change detection in remote sensing optical images". In: <i>EGU General Assembly Abstractd</i> (2011), (solicited talk).</li>
 <li>M. Charrière, A. Pedrazzini, M. Güell-Pons, <b>M.Volpi</b>, M. Jaboyedoff, C. Froese, and M. Kanevski. "The characterisation of the Frank Slide deposit". In: <i>EGU General Assembly Abstracts</i>, (2010).</li>
-
 <li>F. Humair, M. Charrière, A. Pedrazzini, M. Güell-Pons, <b>M. Volpi</b>, L. Foresti, M. Jaboyedoff, J. L. Epard, and C. Froese. "The Frank Slide (Alberta, Canada): from the contributing factors to the processes of propagation". In: <i>International Canadian Geotechnical Conference of the Canadian Geotechnical Society</i>, (2010).</li>
 <li>M. Kanevski, <b>M. Volpi</b>, and L. Copa. "Environmental monitoring network optimization using advanced active learning algorithms". In: <i>EGU General Assembly Abstacts</i>, (2010).</li>
 <li><b>M. Volpi</b>, D. Tuia, and M. Kanevski. "Supervised change detection in VHR images using support vector machines and contextual information". In: <i>EGU General Assmebly Abstracts</i>, (2010).</li>
 <li><b>M. Volpi</b>, D. Tuia, and M. Kanevski. "Unsupervised binary change detection in VHR images using a kernelized algorithm". In: <i>EGU General Assembly Abstracts</i>, (2010).</li>
+<li><b>M. Volpi</b>, D. Tuia, M. Kanevski, F. Bovolo, and L. Bruzzone. "Supervised change detection in VHR images: A comparative analysis". In: <i>IEEE International Workshop on Machine Learning for Signal Processing</i>, (2009).</li>
 
 # Datasets
 
