@@ -125,7 +125,6 @@ algorithms for supervised remote sensing image classification" <i>IEEE Journal o
 
 
 ## 2014
-
 <li><b>M. Volpi</b>, and D. Tuia. "Spatially aware supervised nonlinear dimensionality reduction for hyperspectral data". In: <i>Workshop in Hyperspectral Image and Signal Processing: Evolution in Remote Sensing</i>, (2014).</li>
 <li>D. Tuia, <b>M. Volpi</b>, and G. Camps-Valls. "Unsupervised alignment of image manifolds using centrality measures". In: <i>International Conference on Pattern Recognition</i>, (2014).</li>
 
@@ -140,7 +139,7 @@ algorithms for supervised remote sensing image classification" <i>IEEE Journal o
 ## 2012
 
 <li> D. Tuia, <b>M. Volpi</b>, M. Dalla-Mura, A. Rakotomamonjy, and R. Flamary. "Discovering relevant spatial filterbanks for VHR image classification". In: <i>International Conference on Pattern Recognition</i>, (2012).</li>
-<li><b>M. Volpi</b>, G. Matasci, D. Tuia, and M. Kanevski. "Enahnced change detection using nonlinear feature extraction". In: < i>IEEE International Geosciences and Remote Sensing Symposium</i>, (2012)<li>
+<li><b>M. Volpi</b>, G. Matasci, D. Tuia, and M. Kanevski. "Enahnced change detection using nonlinear feature extraction". In: <i>IEEE International Geosciences and Remote Sensing Symposium</i>, (2012)<li>
 <li>R. Cere, M. Conedera, G. Matasci, M. Kanevski, M. Tonini, C. Vega-Orozco, M. Volpi. "Wildland-Urban Interface evolution mapping using multi-temporal Landsat imagery. The case of forest fires in southern Swiss Alps". In <i>EGU General Assembly Conference Abstracts</i>, (2012).</li>
 <li><b>M. Volpi</b>, G. P. Petropoulos, and M. Kanevski. "Flooded area cartography with kernel-based classifiers and Landsat TM imagery", In: <i>EGU General Assembly Conference Abstracts</i>, 2012</li>
 
