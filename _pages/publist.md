@@ -5,7 +5,7 @@ permalink: /publist/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.ch/citations?user=3G-Oh2YAAAAJ&hl=en">my Google Scholar profile</a>.</u>. If you do not have access or cannot find a pdf, just drop me a mail and I will be happy to send a copy. 
+You can also find my articles on <a href="https://scholar.google.ch/citations?user=3G-Oh2YAAAAJ&hl=en">my Google Scholar profile</a>. If you do not have access or cannot find a pdf, just drop me a mail and I will be happy to send a copy. 
 
 # Journal papers
 
