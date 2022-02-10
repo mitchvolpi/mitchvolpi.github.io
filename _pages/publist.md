@@ -40,7 +40,7 @@ Herwijnen, T. Olevski, G. Obozinski, F. Pérez-Cruz, and J. Schweizer. "Data-dri
 
 <li> J. D. Wegner, R. Roscher, <b>M. Volpi</b>, and F. Veronesi. "Foreword to the Special Issue on Machine Learning for Geospatial Data Analysis". In: <i>ISPRS International Journal of Geo-Information</i>, 7.147 (2018). [<b><a href="https://www.mdpi.com/2220-9964/7/4/147" target="_blank">PDF</a></b>]</li>
 
-<li>D. Tuia, M. Volpi, J. Verrelst, G. Camps-Valls. "Advances in kernel machines for image classification and biophysical parameter retrieval", Book chapter: <i>Mathematical models for remote sensing image processing</i>, (2018), pp. 399-441.</li>
+<li>D. Tuia, <b>M. Volpi</b>, J. Verrelst, G. Camps-Valls. "Advances in kernel machines for image classification and biophysical parameter retrieval", Book chapter: <i>Mathematical models for remote sensing image processing</i>, (2018), pp. 399-441.</li>
 
 ## 2017
 
@@ -117,7 +117,7 @@ algorithms for supervised remote sensing image classification" <i>IEEE Journal o
 <li>D. Marcos, <b>M. Volpi</b>, and D. Tuia. "Learning rotation invariant convolutional filters for texture classification". In: <i>International Conference on Pattern Recognition</i>, (2016).</li>
 <li>D. Marcos, <b>M. Volpi</b>, and D. Tuia. "Solving structured segmentation of aerial images as puzzles". In: <i>>IEEE International Geosciences and Remote Sensing Symposium</i>, (2016).</li>
 <li>D. Tuia, <b>M. Volpi</b>, and G. Moser. "Getting pixels and regions to agree with conditional random fields". In: <i>IEEE International Geosciences and Remote Sensing Symposium</i>, (2016).</li>
-<li><b>M. Volpi</b>and D. Tuia. "Semantic labeling of aerial images by learning class-specific object proposals". In: <i>IEEE International Geosciences and Remote Sensing Symposium</i>, (2016).</li>
+<li><b>M. Volpi</b>, and D. Tuia. "Semantic labeling of aerial images by learning class-specific object proposals". In: <i>IEEE International Geosciences and Remote Sensing Symposium</i>, (2016).</li>
 
 ## 2015
 <li><b>M. Volpi</b>, and V. Ferrari. "Semantic segmentation of urban scenes by learning local class interactions". In: <i>IEEE/CVF Computer Vision and Patter Recognition Workshops (Earthvision)</i> (2015). <b>Best Paper Award</b></li>
